@@ -155,7 +155,7 @@ referencias = [
     'Eddievak: <a href="https://www.youtube.com/shorts/_WOC0ZCxKEs" color="blue"><u>https://www.youtube.com/shorts/_WOC0ZCxKEs</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/X_PYfqJNFIc" color="blue"><u>https://www.youtube.com/shorts/X_PYfqJNFIc</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/DF_o8ejApAw" color="blue"><u>https://www.youtube.com/shorts/DF_o8ejApAw</u></a>',
-    'GitHub: Repositorio con el que se crearon las imagenes y este Documento: <a href="Falta link" color="blue"><u>Falta link</u></a>'
+    'GitHub: Repositorio con el que se crearon las imagenes y este Documento: <a href="https://github.com/RedCyclone05/F2L" color="blue"><u>https://github.com/RedCyclone05/F2L</u></a>'
 ]
 
 # Agregar cada referencia como un bullet con enlace cliqueable

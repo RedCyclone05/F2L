@@ -6,7 +6,7 @@ import os
 csv_file_path = 'DataBase.csv'
 
 # Enlace base
-base_url = "https://cube.rider.biz/visualcube.php?fmt=png&size=500&r=y30x-30z0&bg=t"
+base_url = "https://cube.rider.biz/visualcube.php?fmt=png&size=500&bg=t"
 
 # Crear un directorio para guardar las imágenes si no existe
 output_dir = 'imagenes_descargadas'
@@ -14,10 +14,17 @@ os.makedirs(output_dir, exist_ok=True)
 
 # Diccionario para las variaciones de 'stage'
 stage_variaciones = {
-    "(BR Slot)": "f2l_1",
+    "(BR Slot)": "f2l_2",
     "(FR Slot)": "f2l_3",
     "(FL Slot)": "f2l_1",
     "(BL Slot)": "f2l_2"
+}
+
+orientation_variaciones = {
+    "Front Right": "y30x-30z0",
+    "Front Left": "y-30x-30z0",
+    "Back Left": "y-30x-30z0",
+    "Back Right": "y30x-30z0"
 }
 
 # Abrir el archivo CSV y leer los datos
@@ -47,6 +54,13 @@ with open(csv_file_path, newline='') as csvfile:
             else:
                 # Si no coincide con ninguna de las condiciones, usar f2l como predeterminado
                 stage = "f2l"
+            
+            # Modificar la orientación de la imagen
+            if columna_2_texto in ["Front Right", "Front Left", "Back Left", "Back Right"]:
+                # Girar para que se vea bien el caso
+                orientation = orientation_variaciones.get(columna_2_texto, "y30x-30z0")  # Valor por defecto
+            else:
+                orientation = "y30x-30z0"  # Valor por defecto si la columna 2 no contiene ninguna de las opciones
 
             # Verificar si la columna 6 contiene "Main Algorithm" o "It's ready"
             if "Main Algorithm" in columna_6_valor:
@@ -72,7 +86,7 @@ with open(csv_file_path, newline='') as csvfile:
                 columna_6_valor += " d2"
             
             # Generar el enlace con la variación de stage
-            enlace = f"{base_url}&stage={stage}&case={columna_6_valor}"
+            enlace = f"{base_url}&r={orientation}&stage={stage}&case={columna_6_valor}"
             
             # Depuración: imprimir el enlace generado
             print(f"Enlace generado: {enlace}")
