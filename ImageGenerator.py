@@ -69,20 +69,20 @@ with open(csv_file_path, newline='') as csvfile:
             if "It's ready" in columna_6_valor:
                 columna_6_valor = "U"  # Modificar el algoritmo a "U"
             
-            # Modificar columna_6_valor si empieza con y o y'
-            if columna_6_valor.startswith("y'"):
+            # Modificar columna_6_valor si contiene y o y'
+            if "y'" in columna_6_valor:
                 columna_6_valor += " y"
-            elif columna_6_valor.startswith("y"):
+            elif "y" in columna_6_valor:
                 columna_6_valor += " y'"
-            elif columna_6_valor.startswith("y2"):
+            elif "y2" in columna_6_valor:
                 columna_6_valor += " y2"
 
-            # Modificar columna_6_valor si empieza con d o d'
-            if columna_6_valor.startswith("d'"):
+            # Modificar columna_6_valor si contiene d o d'
+            if "d'" in columna_6_valor:
                 columna_6_valor += " d"
-            elif columna_6_valor.startswith("d"):
+            elif "d" in columna_6_valor:
                 columna_6_valor += " d'"
-            elif columna_6_valor.startswith("d2"):
+            elif "d2" in columna_6_valor:
                 columna_6_valor += " d2"
             
             # Generar el enlace con la variación de stage
