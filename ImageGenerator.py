@@ -9,7 +9,7 @@ csv_file_path = 'DataBase.csv'
 base_url = "https://cube.rider.biz/visualcube.php?fmt=png&size=500&bg=t"
 
 # Crear un directorio para guardar las imágenes si no existe
-output_dir = 'imagenes_descargadas'
+output_dir = 'preliminary_downloaded_images'
 os.makedirs(output_dir, exist_ok=True)
 
 # Diccionario para las variaciones de 'stage'

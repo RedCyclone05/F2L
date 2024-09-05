@@ -98,7 +98,7 @@ with open(csv_file, mode='r') as file:
             text_lines = row[5:]  # Las celdas restantes se consideran líneas de texto
 
             # Construir la ruta completa de la imagen
-            image_path = os.path.abspath(os.path.join('imagenes_descargadas', image_filename))
+            image_path = os.path.abspath(os.path.join('processed_downloaded_images', image_filename))
             # Depuración de la ruta de la imagen
             print(f"Buscando la imagen en: {image_path}")
 
