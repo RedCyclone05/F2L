@@ -385,6 +385,7 @@ Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L51_Back Right.png,AF2L51,
 Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L52_Back Right.png,AF2L52,R' U R U2 L U2 L' U2 L U' L',,,(BL Slot)
 Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L53_Back Right.png,AF2L53,R' U R y' U R U2 R' U2 R U' R',R' U' R L' U2 L y U' L U L',R' U' R L' U2 L U' F U F',(FL Slot)
 Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L54_Back Right.png,AF2L54,R' U R2 U2 R' U R' F R F',R' U R2 U2 R' U2 R U' R',R' U' R U2 R' U2 R2 U R',(FR Slot)
+Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,Alternative Algorithm 2,(Target Slot)
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot)
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot)
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot)

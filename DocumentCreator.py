@@ -83,7 +83,7 @@ last_subsubsubtema = ""
 
 
 # Leer el archivo CSV
-csv_file = 'DataBase.csv'
+csv_file = 'Test.csv'
 with open(csv_file, mode='r') as file:
     reader = csv.reader(file)
     next(reader)  # Omitir la primera fila (encabezados)
@@ -125,6 +125,23 @@ with open(csv_file, mode='r') as file:
             # Saltar un espacio pequeño
             content.append(Spacer(1, 12))
 
+# Definir un estilo para el párrafo de sugerencia con justificación
+suggestion_style = ParagraphStyle(name='SuggestionText', fontName='Montserrat', fontSize=12, leading=16, alignment=4)
+
+# Crear el párrafo con el nuevo estilo de justificación
+suggestion_paragraph = Paragraph(
+    """
+    <font name="Montserrat" size="12">
+    My suggestion is to first learn the algorithms from the Basic Algorithms section for the Front Right slot. It is important to choose only one of the first two algorithms and check if the third one is applicable from a different position; if it is, it would be a good idea to learn it as well. Once you have mastered this, move on to learning the cases from the other three angles. After that, I would start learning all the cases from the Useful Cases section. Next, learn some of the advanced cases for the Front Right slot, selecting only the most important, easiest, or most frequent cases from the Advanced section for the other angles, as not all are as common. Prioritize only a few cases in this section. Remember to practice Finger Tricks; I have included a video in the References section.
+    </font>
+    """, 
+    suggestion_style
+)
+
+# Agregar el párrafo con el texto justificado
+content.append(suggestion_paragraph)
+
+
 # Agregar sección de Referencias
 content.append(Paragraph("Referencias", subtitle_style))
 
@@ -155,7 +172,7 @@ referencias = [
     'Eddievak: <a href="https://www.youtube.com/shorts/_WOC0ZCxKEs" color="blue"><u>https://www.youtube.com/shorts/_WOC0ZCxKEs</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/X_PYfqJNFIc" color="blue"><u>https://www.youtube.com/shorts/X_PYfqJNFIc</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/DF_o8ejApAw" color="blue"><u>https://www.youtube.com/shorts/DF_o8ejApAw</u></a>',
-    'GitHub: Repositorio con el que se crearon las imagenes y este Documento: <a href="https://github.com/RedCyclone05/F2L" color="blue"><u>https://github.com/RedCyclone05/F2L</u></a>'
+    'GitHub: Repository with which the images and this document were created: <a href="https://github.com/RedCyclone05/F2L" color="blue"><u>https://github.com/RedCyclone05/F2L</u></a>'
 ]
 
 # Agregar cada referencia como un bullet con enlace cliqueable
@@ -174,3 +191,5 @@ if subprocess.run(['start', pdf_file], shell=True).returncode != 0:
     print(f"No se pudo abrir el PDF '{pdf_file}'.")
 else:
     print(f"PDF '{pdf_file}' creado y abierto con éxito.")
+
+print("Fin del Codigo")

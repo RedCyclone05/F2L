@@ -3,7 +3,7 @@ import requests
 import os
 
 # Ruta del archivo CSV
-csv_file_path = 'DataBase.csv'
+csv_file_path = 'Test.csv'
 
 # Enlace base
 base_url = "https://cube.rider.biz/visualcube.php?fmt=png&size=500&bg=t"

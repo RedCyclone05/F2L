@@ -1,0 +1,30 @@
+﻿Tipo,Slot,Grupo,Ruta,Nombre,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,Target Slot
+Basic Algorithms,Working Slot,Group,Case Name_Working Slot.png,Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2 or Case from another angle.,
+Basic Algorithms,Front Right,Free Pairs,F2L1_Front Right.png,F2L1,U R U' R',R' F R F',,
+Basic Algorithms,Front Right,Connected Pairs,F2L20_Front Right.png,F2L20,R U' R' U2 F' U' F,R U' R' U2 y' R' U' R,U F U R U' R' F' R U R',r U r' U r U2 r' U' r U' r'
+Basic Algorithms,Front Right,Pieces In Slot,F2L42_Front Right.png,F2L42,It's ready,,,
+Basic Algorithms,Front Left,Free Pairs,F2L1_Front Left.png,F2L1,F' r U r',F' L F L',,
+Basic Algorithms,Front Left,Pieces In Slot,F2L41_Front Left.png,F2L41,l' U l U2 l' U' l L' U' L,L' U L U L' U L U' y' R U R',,
+Basic Algorithms,Front Left,Pieces In Slot,F2L42_Front Left.png,F2L42,It's ready,,,
+Basic Algorithms,Back Right,Pieces In Slot,F2L39_Back Right.png,F2L39,R' U' R U R' U2 R U R' U' R,R' U R U R' U' R U2 R' U R,,
+Basic Algorithms,Back Right,Pieces In Slot,F2L40_Back Right.png,F2L40,R' U R r' U r U2 r' U' r,R' U R f U R2 U' f',,
+Basic Algorithms,Back Right,Pieces In Slot,F2L41_Back Right.png,F2L41,r' U r U2 r' U' r R' U' R,R' U R' U' F' U F R2,,
+Basic Algorithms,Back Right,Pieces In Slot,F2L42_Back Right.png,F2L42,It's ready,,,
+Advanced Algorithms,Working Slot,Group,Advanced Case Name_Working Slot.png,Advanced Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,(Target Slot)
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L53_Front Right.png,AF2L53,R U' R' d R' U2 R L' U L,F' U2 L' U2 L2 U L' F,R U' R' U y L' U2 L R' U R,(BL Slot)
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L54_Front Right.png,AF2L54,R U' R' U2 L' U2 L U2 L' U L,y' R' U R2 U2 R' U2 R U' R',y' R' U R2 U2 R' U' R U2 R',(FL Slot)
+Advanced Algorithms,Front Left,Trapped Corner,AF2L1_Front Left.png,AF2L1,L' U' L U R U' R',M F' M',R L' U' L R',(FR Slot)
+Advanced Algorithms,Front Left,Trapped Corner,AF2L2_Front Left.png,AF2L2,L' U' L y R U' R',r' U F2 U' r,y' R U' R' L U2 L',(BR Slot)
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L53_Front Left.png,AF2L53,F U2 R U2 R2 U' R F',L' U L U2 r U2 R2 U' R2 U' r',,(BR Slot)
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L54_Front Left.png,AF2L54,L' U L2 U2 L' U2 L U' L',L' U L2 U2 L' U' L U2 L',L' U' L F' U' L F' L' F L U L' F,(BL Slot)
+Advanced Algorithms,Back Left,Trapped Corner,AF2L1_Back Left.png,AF2L1,S' L' S,L U' L' y L U' L',y' L' U' L U R U' R',(FL Slot)
+Advanced Algorithms,Back Left,Trapped Corner,AF2L2_Back Left.png,AF2L2,L U' L' U' R U' R',l U' F2 U l',L U' L' R U2 R',(FR Slot)
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L54_Back Left.png,AF2L54,L U L' R U2 R2 U' R2 U' R',,,(BR Slot)
+Advanced Algorithms,Back Right,Trapped Corner,AF2L1_Back Right.png,AF2L1,R' U' R U L U' L',L R' U' R L',M' f' E,(BL Slot)
+Advanced Algorithms,Back Right,Trapped Corner,AF2L2_Back Right.png,AF2L2,F R' U2 R F',R' U' R F U' F',R' U' R y' R U' R',(FL Slot)
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L54_Back Right.png,AF2L54,R' U R2 U2 R' U R' F R F',R' U R2 U2 R' U2 R U' R',R' U' R U2 R' U2 R2 U R',(FR Slot)
+Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,Alternative Algorithm 2,(Target Slot)
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot)
+Useful Cases,Front Right,Miscellaneous,UF2L15_Front Right.png,UF2L15,R2 U' R' U R2,Only if the BR Slot is empty,,(FR Slot)
+Useful Cases,Front Right,Miscellaneous,UF2L16_Front Right.png,UF2L16,R2 U R U' R2',Only if the FR Slot is empty,,(BR Slot)
+Useful Cases,Front Left,KeyHole,UF2L21_Front Left.png,UF2L21,D R U' R' D',Only if the FR Slot is empty,,(FL Slot)
