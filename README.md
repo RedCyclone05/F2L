@@ -48,5 +48,5 @@ El proyecto consta de tres scripts principales:
 
 1. Las imágenes procesadas se guardarán en la carpeta `processed_downloaded_images`.
 
-2. El documento PDF generado se guardará como `F2L_casos.pdf`.
+2. El documento PDF generado se guardará como `F2L_cases.pdf`.
 

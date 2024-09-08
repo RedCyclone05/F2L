@@ -14,7 +14,7 @@ pdfmetrics.registerFont(TTFont('Montserrat', 'Montserrat-Regular.ttf'))
 pdfmetrics.registerFont(TTFont('Montserrat-Medium', 'Montserrat-Medium.ttf'))
 
 # Crear un documento PDF
-pdf_file = "F2L_casos.pdf"
+pdf_file = "F2L_cases.pdf"
 document = SimpleDocTemplate(
     pdf_file, 
     pagesize=letter,
@@ -172,6 +172,12 @@ referencias = [
     'Eddievak: <a href="https://www.youtube.com/shorts/_WOC0ZCxKEs" color="blue"><u>https://www.youtube.com/shorts/_WOC0ZCxKEs</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/X_PYfqJNFIc" color="blue"><u>https://www.youtube.com/shorts/X_PYfqJNFIc</u></a>',
     'Eddievak: <a href="https://www.youtube.com/shorts/DF_o8ejApAw" color="blue"><u>https://www.youtube.com/shorts/DF_o8ejApAw</u></a>',
+    'CubeHead: TOP 6 F2L tricks you SHOULD KNOW  <a href="https://www.youtube.com/watch?v=_dxV4mrG3Cs&t=22s" color="blue"><u>https://www.youtube.com/watch?v=_dxV4mrG3Cs&t=22s</u></a>',
+    'CubeHead: 6 FUNDAMENTAL RULES for Rotating During F2L  <a href="https://www.youtube.com/watch?v=Hr_4_ACjo-8&t=335s" color="blue"><u>https://www.youtube.com/watch?v=Hr_4_ACjo-8&t=335s</u></a>',
+    'J Perm: Rubik´s Cube: F2L Keyhole Technique & Pseudoslotting (Beginner to Advanced)  <a href="https://www.youtube.com/watch?v=TWffMVBqj1w" color="blue"><u>https://www.youtube.com/watch?v=TWffMVBqj1w</u></a>',
+    'CubeSkills: Advanced F2L - Using Keyhole in F2L <a href="https://www.youtube.com/watch?v=mXEOPX42FJg" color="blue"><u>https://www.youtube.com/watch?v=mXEOPX42FJg</u></a>',
+    'Biel Salmons: 10 CASOS de F2L AVANZADO para EXPERTOS | F2L AVANZADO 4  <a href="https://www.youtube.com/watch?v=LXZCgHrcPqs&list=PLNmPrb0wMCClIVNMpHb4n0AXSIH392IQu&index=12" color="blue"><u>https://www.youtube.com/watch?v=LXZCgHrcPqs&list=PLNmPrb0wMCClIVNMpHb4n0AXSIH392IQu&index=12</u></a>',
+    'Biel Salmons: F2L AVANZADO para EXPERTOS <a href="https://www.youtube.com/watch?v=3upuZ6tl1nU&list=PLNmPrb0wMCClIVNMpHb4n0AXSIH392IQu&index=8" color="blue"><u>https://www.youtube.com/watch?v=3upuZ6tl1nU&list=PLNmPrb0wMCClIVNMpHb4n0AXSIH392IQu&index=8</u></a>',
     'GitHub: Repository with which the images and this document were created: <a href="https://github.com/RedCyclone05/F2L" color="blue"><u>https://github.com/RedCyclone05/F2L</u></a>'
 ]
 
