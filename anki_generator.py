@@ -2,10 +2,29 @@ import csv
 import os
 import genanki
 
-# Rutas de archivos
-input_csv = 'DataBase.csv'
-output_apkg = 'F2L.apkg'
+# Mensaje de advertencia
+print("\nPor favor, antes de usar este código asegúrate de usar el código 'group_generator.py'. Luego revisa qué archivo CSV deseas.")
+
+# Solicitar nombre del deck y archivo CSV al usuario
+deck_name = input("\nIntroduce el nombre del deck: ")
+
+# Listar todos los archivos CSV en el directorio
+csv_folder = 'Divided_CSV'
+csv_files = [f for f in os.listdir(csv_folder) if f.endswith('.csv')]
+
+if csv_files:
+    print("\nArchivos CSV disponibles en la carpeta 'Divided_CSV':")
+    for csv_file in csv_files:
+        print(f"- {csv_file}")
+else:
+    print("\nNo se encontraron archivos CSV en el directorio.")
+csv_name = input("\nIntroduce el nombre del archivo CSV (sin extensión): ")
+input_csv = os.path.join(csv_folder, f'{csv_name}.csv')
+output_apkg = f'{deck_name}.apkg'
 image_folder = 'processed_downloaded_images'
+
+# Reemplazar espacios en el nombre del deck con guiones bajos
+deck_name_sanitized = deck_name.replace(' ', '_')
 
 # Crear un modelo para las tarjetas con 6 campos
 model_id = 1607392319
@@ -55,7 +74,7 @@ model = genanki.Model(
 deck_id = 2059400110
 deck = genanki.Deck(
   deck_id,
-  'F2L')
+  deck_name_sanitized)
 
 # Leer el archivo CSV y generar las tarjetas
 with open(input_csv, newline='', encoding='utf-8') as csvfile:
