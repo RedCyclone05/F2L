@@ -92,7 +92,27 @@ def procesar_imagenes():
             shutil.copy2(image_path, new_image_path)
             print(f"Imagen no procesada copiada: {new_image_path}")
 
-    print("Fin del código :)")
+    print("Imagenes procesadas :)")
 
-# Ejecutar el proceso
+
+def editar_imagen_manual():
+    """Permite al usuario buscar una imagen en la carpeta de procesadas para editar manualmente."""
+    while True:
+        buscar_imagen = input("Ingresa el nombre de la imagen a editar (o escribe 'salir' para finalizar), no olvides la extension: ")
+        if buscar_imagen.lower() == 'salir':
+            break
+
+        # Verificar si la imagen existe en la carpeta de procesadas
+        image_path = os.path.join(carpeta_imagenes_procesadas, buscar_imagen)
+        if os.path.exists(image_path):
+            imagen = Image.open(image_path).convert("RGBA")
+            print(f"Abriendo imagen: {image_path}")
+            seleccionar_punto(imagen, image_path, image_path)  # Reutilizar la misma función de edición
+        else:
+            print(f"La imagen '{buscar_imagen}' no se encontró en la carpeta de imágenes procesadas.")
+
+# Agregamos la llamada a la nueva función al final del proceso
 procesar_imagenes()
+editar_imagen_manual()
+
+

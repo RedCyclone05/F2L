@@ -1,415 +1,415 @@
-﻿Tipo,Slot,Grupo,Ruta,Nombre,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,Target Slot
-Basic Algorithms,Working Slot,Group,Case Name_Working Slot.png,Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2 or Case from another angle.,
-Basic Algorithms,Front Right,Free Pairs,F2L1_Front Right.png,F2L1,U R U' R',R' F R F',,
-Basic Algorithms,Front Right,Free Pairs,F2L2_Front Right.png,F2L2,F R' F' R,y' U' R' U R,,
-Basic Algorithms,Front Right,Free Pairs,F2L3_Front Right.png,F2L3,F' U' F,y' R' U' R,,
-Basic Algorithms,Front Right,Free Pairs,F2L4_Front Right.png,F2L4,R U R',y' f R f',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L5_Front Right.png,F2L5,U' R U R' U2 R U' R',U' R U R' U' R U2 R',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L6_Front Right.png,F2L6,U' r U' R' U R U r',y' U R' U' R U2 R' U R,y F2 R U R' U' F2,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L7_Front Right.png,F2L7,U' R U2 R' U' R U2 R',M' U' M U2 r U' r',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L8_Front Right.png,F2L8,d R' U2 R U R' U2 R,r' U2 R2 U R2 U r,,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L9_Front Right.png,F2L9,U' R U' R' U F' U' F,F R U R' U' F' R U' R',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L10_Front Right.png,F2L10,U' R U R' U R U R',U2 R U' R' U' R U R',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L11_Front Right.png,F2L11,U R U2 R' U R U' R',U R U2 R2 F R F',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L12_Front Right.png,F2L12,y' U' R' U2 R U' R' U R,y U' L' U2 L U' L' U L,,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L13_Front Right.png,F2L13,U2 R U R' U R U' R',R U' R' U2 R U R',,
-Basic Algorithms,Front Right,Disconnected Pairs,F2L14_Front Right.png,F2L14,r U' r' U2 r U r',F' L' U2 L F,,
-Basic Algorithms,Front Right,Connected Pairs,F2L15_Front Right.png,F2L15,y' R U2 R2 U' R2 U' R',U' R U2 R' U F' U' F,,
-Basic Algorithms,Front Right,Connected Pairs,F2L16_Front Right.png,F2L16,R U' R' U R U' R' U2 R U' R',R' U2 R2 U R2 U R,,
-Basic Algorithms,Front Right,Connected Pairs,F2L17_Front Right.png,F2L17,y' U R' U R U' R' U' R,M' U' R U R' U2 R U' r',,
-Basic Algorithms,Front Right,Connected Pairs,F2L18_Front Right.png,F2L18,U' R U' R' U R U R',R U2 R' U2 R U R' U2 R U' R',,
-Basic Algorithms,Front Right,Connected Pairs,F2L19_Front Right.png,F2L19,R' D' R U' R' D R U R U' R',R U R' U2 R U' R' U R U' R',M U r U' r' U' M',
-Basic Algorithms,Front Right,Connected Pairs,F2L20_Front Right.png,F2L20,R U' R' U2 F' U' F,R U' R' U2 y' R' U' R,U F U R U' R' F' R U R',r U r' U r U2 r' U' r U' r'
-Basic Algorithms,Front Right,Connected Pairs,F2L21_Front Right.png,F2L21,R U2 R' U' R U R',y2 L U2 L' U' L U L',,
-Basic Algorithms,Front Right,Connected Pairs,F2L22_Front Right.png,F2L22,y' R' U2 R U R' U' R,R' F R F' R U' R' U R U' R',,
-Basic Algorithms,Front Right,Connected Pairs,F2L23_Front Right.png,F2L23,U R U' R' U' R U' R' U R U' R',U F R' F' R U R U R',U2 R2 U2 R' U' R U' R2,
-Basic Algorithms,Front Right,Connected Pairs,F2L24_Front Right.png,F2L24,F U R U' R' F' R U' R',y' R' U' R U2 R' U' R U R' U' R,U' R U R2 F R F' R U' R',
-Basic Algorithms,Front Right,Corner In Slot,F2L25_Front Right.png,F2L25,U' R' F R F' R U R',R' F' R U R U' R' F,,
-Basic Algorithms,Front Right,Corner In Slot,F2L26_Front Right.png,F2L26,U R U' R' F R' F' R,R S' R' U R S R',,
-Basic Algorithms,Front Right,Corner In Slot,F2L27_Front Right.png,F2L27,R U' R' U R U' R',F' U' F U2 R U' R',,
-Basic Algorithms,Front Right,Corner In Slot,F2L28_Front Right.png,F2L28,R U R' U' F R' F' R,y L' U L U' L' U L,,
-Basic Algorithms,Front Right,Corner In Slot,F2L29_Front Right.png,F2L29,R' F R F' U R U' R',y' R' U' R U R' U' R,,
-Basic Algorithms,Front Right,Corner In Slot,F2L30_Front Right.png,F2L30,R U R' U' R U R',U' F R' F' R2 U R',,
-Basic Algorithms,Front Right,Edge In Slot,F2L31_Front Right.png,F2L31,U' R' F R F' R U' R',R U' R' U y' R' U R,,
-Basic Algorithms,Front Right,Edge In Slot,F2L32_Front Right.png,F2L32,U R U' R' U R U' R' U R U' R',R U R' U' R U R' U' R U R',U' F R' F' R U' R U R',R2 U R2 U R2 U2 R2
-Basic Algorithms,Front Right,Edge In Slot,F2L33_Front Right.png,F2L33,U' R U' R' U2 R U' R',R U R' U' R U' R' U R U' R',,
-Basic Algorithms,Front Right,Edge In Slot,F2L34_Front Right.png,F2L34,U R U R' U2 R U R',U' R U2 R' U R U R',U R' D' R U' R' D R,U' R' D' R U R' D R
-Basic Algorithms,Front Right,Edge In Slot,F2L35_Front Right.png,F2L35,U' R U R' U F' U' F,U' R U R' d R' U' R,U M' U R U' r' R U' R',
-Basic Algorithms,Front Right,Edge In Slot,F2L36_Front Right.png,F2L36,U F' U' F U' R U R',U2 R' F R F' U2 R U R',,
-Basic Algorithms,Front Right,Pieces In Slot,F2L37_Front Right.png,F2L37,R2 U2 F R2 F' U2 R' U R',R' F R F' R U' R' U R U' R' U2 R U' R',,
-Basic Algorithms,Front Right,Pieces In Slot,F2L38_Front Right.png,F2L38,R U' R' U' R U R' U2 R U' R',R U R' U' R U2 R' U' R U R',,
-Basic Algorithms,Front Right,Pieces In Slot,F2L39_Front Right.png,F2L39,R U' R' U R U2 R' U R U' R',R U2 R U R' U R U2 R2,,
-Basic Algorithms,Front Right,Pieces In Slot,F2L40_Front Right.png,F2L40,r U' r' U2 r U r' R U R',F' L' U2 L F R U R',,
-Basic Algorithms,Front Right,Pieces In Slot,F2L41_Front Right.png,F2L41,R U' R' r U' r' U2 r U r',R U' R' F' L' U2 L F,,
-Basic Algorithms,Front Right,Pieces In Slot,F2L42_Front Right.png,F2L42,It's ready,,,
-Basic Algorithms,Front Left,Free Pairs,F2L1_Front Left.png,F2L1,F' r U r',F' L F L',,
-Basic Algorithms,Front Left,Free Pairs,F2L2_Front Left.png,F2L2,U' L' U L,L F' L' F,,
-Basic Algorithms,Front Left,Free Pairs,F2L3_Front Left.png,F2L3,L' U' L,U2 R' F R U R' F' R,,
-Basic Algorithms,Front Left,Free Pairs,F2L4_Front Left.png,F2L4,F U F',y L U L',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L5_Front Left.png,F2L5,U R' F r U' r' F' R,U2 F R U R' U2 F',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L6_Front Left.png,F2L6,U L' U' L U2 L' U L,F2 R U R' U' F2,,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L7_Front Left.png,F2L7,F U R U2 R' U F',d' L U2 L' U2 L U' L',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L8_Front Left.png,F2L8,U L' U2 L U L' U2 L,U r' F2 r U2 r' F r,,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L9_Front Left.png,F2L9,U L' U' L U' L' U' L,F2 U R U' R' F2,,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L10_Front Left.png,F2L10,U L' U L U' F U F',F U' R U R' U2 F',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L11_Front Left.png,F2L11,U L' U L2 F' L' F L' U L,y U L U2 L' U L U' L',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L12_Front Left.png,F2L12,U' L' U2 L U' L' U L,L' U L U' L' U L U' L' U' L,,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L13_Front Left.png,F2L13,l' U l U2 l' U' l,F R U2 R' F',,
-Basic Algorithms,Front Left,Disconnected Pairs,F2L14_Front Left.png,F2L14,L' U L U2 L' U' L,U2 L' U' L U' L' U L,,
-Basic Algorithms,Front Left,Connected Pairs,F2L15_Front Left.png,F2L15,L' U L U' L' U L U2 L' U L,L U2 L2 U' L2 U' L',,
-Basic Algorithms,Front Left,Connected Pairs,F2L16_Front Left.png,F2L16,U L' U2 L U' F U F',U L' U2 L d' L U L',,
-Basic Algorithms,Front Left,Connected Pairs,F2L17_Front Left.png,F2L17,U L' U L U' L' U' L,y' R U' R' U2 R U' R' U F' U F,,
-Basic Algorithms,Front Left,Connected Pairs,F2L18_Front Left.png,F2L18,d' L U' L' U L U L',y U' L U' L' U L U L',,
-Basic Algorithms,Front Left,Connected Pairs,F2L19_Front Left.png,F2L19,L' U L U2 F U F',F U2 R U R' U F',,
-Basic Algorithms,Front Left,Connected Pairs,F2L20_Front Left.png,F2L20,F U' R U' R' U2 F',L' U' L U2 L' U L U' L' U L,,
-Basic Algorithms,Front Left,Connected Pairs,F2L21_Front Left.png,F2L21,y L U2 L' U' L U L',L F' L' F L' U L U' L' U L,,
-Basic Algorithms,Front Left,Connected Pairs,F2L22_Front Left.png,F2L22,L' U2 L U L' U' L,,,
-Basic Algorithms,Front Left,Connected Pairs,F2L23_Front Left.png,F2L23,F' U' L' U L F L' U L,F U' R U R' U R U2 R' F',,
-Basic Algorithms,Front Left,Connected Pairs,F2L24_Front Left.png,F2L24,U' L' U L U L' U L U' L' U L,U' F' r U r' U' L' U' L,,
-Basic Algorithms,Front Left,Corner In Slot,F2L25_Front Left.png,F2L25,U' L' U L F' r U r',U' L' U L F' L F L',,
-Basic Algorithms,Front Left,Corner In Slot,F2L26_Front Left.png,F2L26,r U r' U' r' F r F',U L F' L' F L' U' L,,
-Basic Algorithms,Front Left,Corner In Slot,F2L27_Front Left.png,F2L27,L' U' L U F' r U r',L' U' L U F' L F L',,
-Basic Algorithms,Front Left,Corner In Slot,F2L28_Front Left.png,F2L28,L' U L U' L' U L,L' U L2 F' L' F,,
-Basic Algorithms,Front Left,Corner In Slot,F2L29_Front Left.png,F2L29,L' U' L U L' U' L,U L' U2 L U2 L' U' L,,
-Basic Algorithms,Front Left,Corner In Slot,F2L30_Front Left.png,F2L30,L F' L' F U' L' U L,y' R U R' U' R U R',,
-Basic Algorithms,Front Left,Edge In Slot,F2L31_Front Left.png,F2L31,U L F' L' F L' U L,L' U L U' y L U' L',,
-Basic Algorithms,Front Left,Edge In Slot,F2L32_Front Left.png,F2L32,U' L' U L U' L' U L U' L' U L,U L' U L U' L' U2 L U L' U' L,,
-Basic Algorithms,Front Left,Edge In Slot,F2L33_Front Left.png,F2L33,R' D R U' R' D' R,U L' U2 L U' L' U' L,,
-Basic Algorithms,Front Left,Edge In Slot,F2L34_Front Left.png,F2L34,U L' U L U2 L' U L,U L' U L U L' U2 L,,
-Basic Algorithms,Front Left,Edge In Slot,F2L35_Front Left.png,F2L35,U2 F U F' U' L' U L,U' F R' F R F' U F',,
-Basic Algorithms,Front Left,Edge In Slot,F2L36_Front Left.png,F2L36,U L' U' L d' L U L',U2 L' U' L F' L F L',,
-Basic Algorithms,Front Left,Pieces In Slot,F2L37_Front Left.png,F2L37,L2 U2 F' L2 F U2 L U' L,L' U2 L U' L' U2 L U' F U F',,
-Basic Algorithms,Front Left,Pieces In Slot,F2L38_Front Left.png,F2L38,L' U L U' L' U2 L U' L' U L,F R U2 R' U' R U R' U2 F',,
-Basic Algorithms,Front Left,Pieces In Slot,F2L39_Front Left.png,F2L39,L' U' L U L' U2 L U L' U' L,F' L F L2 U2 L U L' U' L,,
-Basic Algorithms,Front Left,Pieces In Slot,F2L40_Front Left.png,F2L40,L' U L F R U2 R' F',L' U L R' F R U2 R' F' R,,
-Basic Algorithms,Front Left,Pieces In Slot,F2L41_Front Left.png,F2L41,l' U l U2 l' U' l L' U' L,L' U L U L' U L U' y' R U R',,
-Basic Algorithms,Front Left,Pieces In Slot,F2L42_Front Left.png,F2L42,It's ready,,,
-Basic Algorithms,Back Left,Free Pairs,F2L1_Back Left.png,F2L1,U L U' L',U2 L U2 L',,
-Basic Algorithms,Back Left,Free Pairs,F2L2_Back Left.png,F2L2,l U L' U' M',d' R' U R,,
-Basic Algorithms,Back Left,Free Pairs,F2L3_Back Left.png,F2L3,y R' U' R,f' L' f,,
-Basic Algorithms,Back Left,Free Pairs,F2L4_Back Left.png,F2L4,L U L',r B r',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L5_Back Left.png,F2L5,U' L U L' U2 L U' L',U' L U L' U' L U2 L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L6_Back Left.png,F2L6,U r U' r' U' L U F L',y U R' U' R U R' U2 R,,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L7_Back Left.png,F2L7,U' L U2 L' U2 L U' L',U' L U2 L' U' L U2 L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L8_Back Left.png,F2L8,l' U2 L2 U L2 U l,y U R' U2 R U R' U2 R,,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L9_Back Left.png,F2L9,y U R' U' R U' R' U' R,U' L U' L' U f' L' f,,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L10_Back Left.png,F2L10,U' L U L' U L U L',U2 L U' L' U' L U L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L11_Back Left.png,F2L11,U L U2 L' U L U' L',L U' L' U L U' L' U L U L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L12_Back Left.png,F2L12,y U' R' U2 R U' R' U R,U' L F U2 F' L' U' L U L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L13_Back Left.png,F2L13,L U' L' U2 L U L',U2 L U L' U L U' L',,
-Basic Algorithms,Back Left,Disconnected Pairs,F2L14_Back Left.png,F2L14,l U' l' U2 l U l',y R' U R U2 R' U' R,,
-Basic Algorithms,Back Left,Connected Pairs,F2L15_Back Left.png,F2L15,U' L U2 L' U f' L' f,U' L U2 L' d L' U' L,,
-Basic Algorithms,Back Left,Connected Pairs,F2L16_Back Left.png,F2L16,L' U2 L2 U L2 U L,L U' L' U L U' L' U2 L U' L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L17_Back Left.png,F2L17,d L' U L U' L' U' L,y U R' U R U' R' U' R,,
-Basic Algorithms,Back Left,Connected Pairs,F2L18_Back Left.png,F2L18,U' L U' L' U L U L',U' L U' L' U L U' L' U' L U' L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L19_Back Left.png,F2L19,L U L' U2 L U' L' U L U' L',L U2 L' U L U L' U L U' L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L20_Back Left.png,F2L20,L U' L' U2 f' L' f,L2 F' L' F L' U2 L U' L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L21_Back Left.png,F2L21,L U2 L' U' L U L',L U L' U' L U2 L' U2 L U L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L22_Back Left.png,F2L22,y R' U2 R U R' U' R,U F U R U' R' F' L U L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L23_Back Left.png,F2L23,U L U' L' U' L U' L' U L U' L',L U L' U2 L U L' U' L U L',,
-Basic Algorithms,Back Left,Connected Pairs,F2L24_Back Left.png,F2L24,U2 r U R' U R U2 B r',U2 F U R U' R' F' U2 L U' L',,
-Basic Algorithms,Back Left,Corner In Slot,F2L25_Back Left.png,F2L25,R D' R' U' R D R' L U L',L U' L' U' L U' L' U L U L',,
-Basic Algorithms,Back Left,Corner In Slot,F2L26_Back Left.png,F2L26,L S L' U L S' L',F R2 u R u' R2 F',,
-Basic Algorithms,Back Left,Corner In Slot,F2L27_Back Left.png,F2L27,L U' L' U L U' L',,,
-Basic Algorithms,Back Left,Corner In Slot,F2L28_Back Left.png,F2L28,L U2 L F' L' F L',y R' U R U' R' U R,,
-Basic Algorithms,Back Left,Corner In Slot,F2L29_Back Left.png,F2L29,y R' U' R U R' U' R,U2 L U' L' f' L' f,,
-Basic Algorithms,Back Left,Corner In Slot,F2L30_Back Left.png,F2L30,L U L' U' L U L',U' L U2 L' U2 L U L',,
-Basic Algorithms,Back Left,Edge In Slot,F2L31_Back Left.png,F2L31,L U' L F' L' F L',f' L f U' L U' L',,
-Basic Algorithms,Back Left,Edge In Slot,F2L32_Back Left.png,F2L32,L U L' U' L U L' U' L U L',U L U' L' U L U' L' U L U' L',,
-Basic Algorithms,Back Left,Edge In Slot,F2L33_Back Left.png,F2L33,U' L U' L' U2 L U' L',U' L U' L' U' L U2 L',,
-Basic Algorithms,Back Left,Edge In Slot,F2L34_Back Left.png,F2L34,U L U L' U2 L U L',U L' D' L U' L' D L,,
-Basic Algorithms,Back Left,Edge In Slot,F2L35_Back Left.png,F2L35,U' L U L' U f' L' f,U2 L U L' U' L F U F' L',,
-Basic Algorithms,Back Left,Edge In Slot,F2L36_Back Left.png,F2L36,U f' L' f U' L U L',U2 f' L' f U L U' L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L37_Back Left.png,F2L37,L U' L' l' U2 L2 U L2 U l,f' L f U' L U2 L' U2 L U' L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L38_Back Left.png,F2L38,L U L' U' L U2 L' U' L U L',L U' L' U' L U L' U' L U2 L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L39_Back Left.png,F2L39,L U L' U2 L U' L' U L U L',L U' L' U L U2 L' U L U' L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L40_Back Left.png,F2L40,l U' l' U2 l U l' L U L',f' L f U2 L U L' U L U' L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L41_Back Left.png,F2L41,f' L f U' L U L' U L U L',L2 F U F' U' L' U L',,
-Basic Algorithms,Back Left,Pieces In Slot,F2L42_Back Left.png,F2L42,It's ready,,,
-Basic Algorithms,Back Right,Free Pairs,F2L1_Back Right.png,F2L1,U f R' f',r' U' R U M',,
-Basic Algorithms,Back Right,Free Pairs,F2L2_Back Right.png,F2L2,U' R' U R,R f' U' f,,
-Basic Algorithms,Back Right,Free Pairs,F2L3_Back Right.png,F2L3,R' U' R,U2 r' R' F R F' r,,
-Basic Algorithms,Back Right,Free Pairs,F2L4_Back Right.png,F2L4,f R f',y R U R',,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L5_Back Right.png,F2L5,U' R' F R U R' U' F' R,U r' U R U' R' U' r,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L6_Back Right.png,F2L6,U R' U' R U2 R' U R,U R' U' R U R' U2 R,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L7_Back Right.png,F2L7,r U2 R2 U' R2 U' r',F R U R2 U' R F',,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L8_Back Right.png,F2L8,U R' U2 R U R' U2 R,U R' U2 R U2 R' U R,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L9_Back Right.png,F2L9,U R' U' R U' R' U' R,R' U R U' R' U' R U2 R' U R,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L10_Back Right.png,F2L10,U R' U R U' f R f',y U' R U R' U R U R',,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L11_Back Right.png,F2L11,y U R U2 R' U R U' R',U R' F' U2 F R U R' U' R,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L12_Back Right.png,F2L12,U' R' U2 R U' R' U R,R' U R U' R' U R U' R' U' R,,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L13_Back Right.png,F2L13,r' U r U2 r' U' r,y' U2 L U L' U L U' L',,
-Basic Algorithms,Back Right,Disconnected Pairs,F2L14_Back Right.png,F2L14,R' U R U2 R' U' R,U2 R' U' R U' R' U R,,
-Basic Algorithms,Back Right,Connected Pairs,F2L15_Back Right.png,F2L15,R' U R U' R' U R U2 R' U R,R' U R U' R' U R U R' U2 R,,
-Basic Algorithms,Back Right,Connected Pairs,F2L16_Back Right.png,F2L16,U R' U2 R U' f R f',f R' U R2 U' R2 f',,
-Basic Algorithms,Back Right,Connected Pairs,F2L17_Back Right.png,F2L17,U R' U R U' R' U' R,U R' U R U' R' U R U R' U R,,
-Basic Algorithms,Back Right,Connected Pairs,F2L18_Back Right.png,F2L18,y U' R U' R' U R U R',d' R U' R' U R U R',,
-Basic Algorithms,Back Right,Connected Pairs,F2L19_Back Right.png,F2L19,R' U R U2 f R f',R2 F R F' R U R' U2 R,,
-Basic Algorithms,Back Right,Connected Pairs,F2L20_Back Right.png,F2L20,R' U' R U2 R' U R U' R' U R,M' U' r' U r U M,,
-Basic Algorithms,Back Right,Connected Pairs,F2L21_Back Right.png,F2L21,y' L U2 L' U' L U L',y R U2 R' U' R U R',,
-Basic Algorithms,Back Right,Connected Pairs,F2L22_Back Right.png,F2L22,R' U2 R U R' U' R,,,
-Basic Algorithms,Back Right,Connected Pairs,F2L23_Back Right.png,F2L23,U R' F R' F' R2 U' R' U R,U2 l' U' L U' L' U2 B' l,,
-Basic Algorithms,Back Right,Connected Pairs,F2L24_Back Right.png,F2L24,R' U' R U2 R' U' R U R' U' R,U2 R2 U2 R U R' U R2,,
-Basic Algorithms,Back Right,Corner In Slot,F2L25_Back Right.png,F2L25,U' R' U M U' R U M',R' S' R U' R' S R,,
-Basic Algorithms,Back Right,Corner In Slot,F2L26_Back Right.png,F2L26,R' U R U R' U R U' R' U' R,R U R U R U' R' U' R',,
-Basic Algorithms,Back Right,Corner In Slot,F2L27_Back Right.png,F2L27,R' U2 R' F R F' R,R' U' R U r' U' R U M',,
-Basic Algorithms,Back Right,Corner In Slot,F2L28_Back Right.png,F2L28,R' U R U' R' U R,,,
-Basic Algorithms,Back Right,Corner In Slot,F2L29_Back Right.png,F2L29,R' U' R U R' U' R,U R' U2 R U2 R' U' R,,
-Basic Algorithms,Back Right,Corner In Slot,F2L30_Back Right.png,F2L30,y' L U L' U' L U L',f R f' U' f R f',,
-Basic Algorithms,Back Right,Edge In Slot,F2L31_Back Right.png,F2L31,R' U R' F R F' R,f R' f' U R' U R,,
-Basic Algorithms,Back Right,Edge In Slot,F2L32_Back Right.png,F2L32,U' R' U R U' R' U R U' R' U R,R' U' R U R' U' R U R' U' R,,
-Basic Algorithms,Back Right,Edge In Slot,F2L33_Back Right.png,F2L33,U' R D R' U R D' R',U' R' U' R U2 R' U' R,,
-Basic Algorithms,Back Right,Edge In Slot,F2L34_Back Right.png,F2L34,U R' U R U R' U2 R,U f R2 U R2 U' f',,
-Basic Algorithms,Back Right,Edge In Slot,F2L35_Back Right.png,F2L35,U' f R f' U R' U' R,R' F R' F' R U R U' R' U' R,,
-Basic Algorithms,Back Right,Edge In Slot,F2L36_Back Right.png,F2L36,U2 R' U' R U R' F' U' F R,U R' F R' F' R U' R,,
-Basic Algorithms,Back Right,Pieces In Slot,F2L37_Back Right.png,F2L37,R' U R r U2 R2 U' R2 U' r',R' U2 R U' R' U2 R U' f R f',,
-Basic Algorithms,Back Right,Pieces In Slot,F2L38_Back Right.png,F2L38,R' U' R U2 R' U R U' R' U' R,R' U R U' R' U2 R U' R' U R,,
-Basic Algorithms,Back Right,Pieces In Slot,F2L39_Back Right.png,F2L39,R' U' R U R' U2 R U R' U' R,R' U R U R' U' R U2 R' U R,,
-Basic Algorithms,Back Right,Pieces In Slot,F2L40_Back Right.png,F2L40,R' U R r' U r U2 r' U' r,R' U R f U R2 U' f',,
-Basic Algorithms,Back Right,Pieces In Slot,F2L41_Back Right.png,F2L41,r' U r U2 r' U' r R' U' R,R' U R' U' F' U F R2,,
-Basic Algorithms,Back Right,Pieces In Slot,F2L42_Back Right.png,F2L42,It's ready,,,
-Advanced Algorithms,Working Slot,Group,Advanced Case Name_Working Slot.png,Advanced Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,(Target Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L1_Front Right.png,AF2L1,S R' S',R U' R' y R U' R',R U' R' f R' f',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L2_Front Right.png,AF2L2,L F' U2 F L',R U' R' L U2 L',L R U' R' U2 L',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L3_Front Right.png,AF2L3,R U' R' U F' r U r',R U' R' U F' L F L',y' R' U2 R2 U' R',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L4_Front Right.png,AF2L4,F R' F' R U R' U2 R,R U R' U2 S U' R' U R S',R U R' U2 f R f',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L5_Front Right.png,AF2L5,R U R' U L U L',U' R U2 M' B r',U' R U2 R' L U L',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L6_Front Right.png,AF2L6,R U R' F U F',F R' F' R L' U L,R U R' b L b',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L7_Front Right.png,AF2L7,U' F' U' f R S',y U' L' U' L R U R',R U' R' U' R U' R' f R f',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L8_Front Right.png,AF2L8,U' F' U2 L U L' F,U' R' F R F' U2 L U L',y' U R' U2 R F U F',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L9_Front Right.png,AF2L9,y' U R' U2 R U' R U R',U R' F R F' R U' R' U' L' U' L,y' U' R' U' R U2 R U R',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L10_Front Right.png,AF2L10,U' R U R2 U' R U' R' U R,U2 R U' R' U' R' U' R,R' F R F' y R U' R',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L11_Front Right.png,AF2L11,R' F R F' L U2 L',R' F R F' U' L U' L',U2 R U' R' U2 B' U' B,(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L12_Front Right.png,AF2L12,R' F R2 U' R' U F',R' F R F' d R' F R F',F' U' F U2 L' U' L,(FL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L13_Front Right.png,AF2L13,U R U R2 U2 R,U R U2 R2 U R,U R U' R' S R2 S',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L14_Front Right.png,AF2L14,U l U' F2 U l',y U L' U L R' U2 R,U R B' U2 B R',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L15_Front Right.png,AF2L15,U R L' U L R',U R U R' U' L' U L,U M F M',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L16_Front Right.png,AF2L16,R U2 R' U R' U' R,U2 R U' R' U2 R' U R,U2 R U' R' U R' U2 R,(BR Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L17_Front Right.png,AF2L17,U2 R U' R' d L' U L,R U2 R' f' L' f,U2 R U' R' y R' U2 R,(BL Slot)
-Advanced Algorithms,Front Right,Trapped Corner,AF2L18_Front Right.png,AF2L18,U2 R U' R' L' U L,R U2 R' U' L' U' L,,(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L19_Front Right.png,AF2L19,U' R U R2 U' R,U2 R U R' U2 R' U R,y U' L F2 L' F2,(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L20_Front Right.png,AF2L20,U' R U' R' L U' L',U' R U' M' B' r',,(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L21_Front Right.png,AF2L21,U2 R U R' L' U L,U' R U R2 F R U F',U' R U R' U2 L' U' L,(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L22_Front Right.png,AF2L22,U R' F R F' R' U' R,U R U' R' U R U' R' f R' f',U R U' R' U S R' S',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L23_Front Right.png,AF2L23,U2 r2 U B2 U' r2,U' F R' F' R U L U L',U2 L2 u L2 u' L2,(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L24_Front Right.png,AF2L24,U R' F R2 U' R' U2 F',U R' F R F' U2 L' U' L,R U R' U' R U R' F U F',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L25_Front Right.png,AF2L25,U' F' R' U' R F,d' R' u' R' u R,U' R U' R' r' U' R U M',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L26_Front Right.png,AF2L26,U2 R B' U' B R',y U2 F R' U' R F',U2 l U' F' U l',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L27_Front Right.png,AF2L27,U F' U2 F L' U' L,U r' F' D' F D r,U' R U' R' F U2 F',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L28_Front Right.png,AF2L28,U' R U2 R' f R f',R' F R F' R U2 R2 U R,U R U R' U f R f',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L29_Front Right.png,AF2L29,U R U R' L U L',U' R U2 R' U' L U L',U R U M' B r',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L30_Front Right.png,AF2L30,U R F U F' R',U L u L u' L',U L D F D' L',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L31_Front Right.png,AF2L31,R U' R2 U R,y M F2 M',S R2 S',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L32_Front Right.png,AF2L32,L F' U F L',l F' U L' U' M',y' F R' U R F',(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L33_Front Right.png,AF2L33,R U' R' U2 L' U L,M F2 M',U F r U2 r' F',(FL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L34_Front Right.png,AF2L34,U' R U' R' U f R' f',d' R' D' F' D R,U' R U' R' d L U' L',(BR Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L35_Front Right.png,AF2L35,U2 L U' F' U F L',U' R U R' y' U' L' U' L,U' R U R' U' f' L' f,(BL Slot)
-Advanced Algorithms,Front Right,Trapped Edge,AF2L36_Front Right.png,AF2L36,U' R U' R' y L U2 L',U' R U' R' U2 F' r U r',U' R U' R' y' U' R U' R',(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L37_Front Right.png,AF2L37,F' U R' U2 R F,R U' R' U' f R f',R U R' U' B U' B',(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L38_Front Right.png,AF2L38,L R U2 R' L',R U' R' U2 L U L',R U R' U' L U2 L',(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L39_Front Right.png,AF2L39,R' F R2 U R' F',R' F R2 U R2 F' R,R' F R2 U R2 F' R2 U2 R',(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L40_Front Right.png,AF2L40,R U' R2 U' R U' R' U' R,R U' R' U' R U' R2 U' R,r U' r' U2 r U r' d' R U R',(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L41_Front Right.png,AF2L41,F' U L' U L U' L U L' F,R U' R' U' R U' R' d' R' U' R,R U' R' y R' U R U R' U' R,(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L42_Front Right.png,AF2L42,R U' R' U' R U' R' U2 L' U' L,R U' R' U' L' U L U L' U' L,r U' r' U2 r U r' d R U R',(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L43_Front Right.png,AF2L43,R U' R' U R' U' R U' R' U R,R U R' U' R U' R' U R' U' R,,(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L44_Front Right.png,AF2L44,R U R' U' R U' R' f' L' f,R U' R' U f' U' L' U L' f,R U' R' y R' U' R U' R' U R,(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L45_Front Right.png,AF2L45,R U' R' U' L' U' L U' L' U L,R U R' U' R U' R' U' L' U' L,y' R' U R2 U R' U R U R',(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L46_Front Right.png,AF2L46,F' R' U R U' R' U' R F,R U' R' U' R U R' U f R' f',R U' R' U' R U R' r' U' R U M',(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L47_Front Right.png,AF2L47,R U' R' U' R U R' L U' L',R U' R' U' R U M' B' r',R U R' U' R U2 R' U L U L',(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L48_Front Right.png,AF2L48,R' F R2 U' R' U' R U R' U2 F',R' F R F' U2 L' U L U' L' U' L,R U' R' U' R U R' U' F U' F',(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L49_Front Right.png,AF2L49,R U R' U2 R U' R' f R f',F' U' R' U2 R U R' U' R F,R U' R' y R U2 R' U R U' R',(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L50_Front Right.png,AF2L50,R U' R' U R U2 R' L U2 L',R U' R' U' L U2 L' U L U' L',R U R' L U' L' U L U L',(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L51_Front Right.png,AF2L51,R U R' d' L U' L' U L U L',R U R' U' y' R U' R' U R U R',R U R' L' U L U' L F' L' F L' U L,(FL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L52_Front Right.png,AF2L52,R U' R2 U2 R U R' U2 R,R U' R2 U2 R U2 R' U R,F R' F' R U' R U2 R2 U' R,(BR Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L53_Front Right.png,AF2L53,R U' R' d R' U2 R L' U L,F' U2 L' U2 L2 U L' F,R U' R' U y L' U2 L R' U R,(BL Slot)
-Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L54_Front Right.png,AF2L54,R U' R' U2 L' U2 L U2 L' U L,y' R' U R2 U2 R' U2 R U' R',y' R' U R2 U2 R' U' R U2 R',(FL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L1_Front Left.png,AF2L1,L' U' L U R U' R',M F' M',R L' U' L R',(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L2_Front Left.png,AF2L2,L' U' L y R U' R',r' U F2 U' r,y' R U' R' L U2 L',(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L3_Front Left.png,AF2L3,L' U' L2 U2 L',L' U2 L2 U' L',,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L4_Front Left.png,AF2L4,U2 L' U L U' R U R',F U F' U2 R U R',U' F U' R U R2 F' R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L5_Front Left.png,AF2L5,L F' L' F R' U2 R,r U' r' F R' U2 R,y' R U R' U L U L',(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L6_Front Left.png,AF2L6,U2 L' U L U L U L',F U F' L U L',L F' L' S' L f,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L7_Front Left.png,AF2L7,U' L' U L R U' R',U' L' U' L R U R',,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L8_Front Left.png,AF2L8,U L' U2 L f R f',F U2 R U R2 U' R F',U' L' U' L d' R U R',(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L9_Front Left.png,AF2L9,U' L' U L U' L U2 L',U L' U2 L U' L U L',U' L' U L U2 L U' L',(BL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L10_Front Left.png,AF2L10,L' U' L F' U' F,U L' U' F' U' F L,L' U' L y' R' U' R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L11_Front Left.png,AF2L11,L' U' L U' R' U' R,,,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L12_Front Left.png,AF2L12,F' L F L' U2 L U' L',L' U' L y U2 R' U' R,L' U' L y' U2 L' U' L,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L13_Front Left.png,AF2L13,U L' U L y' U2 R' U R,U L' U L y U2 L' U L,U L' U L U' F R' F' R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L14_Front Left.png,AF2L14,U L' U L R' U2 R,,,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L15_Front Left.png,AF2L15,U L' U L f' L f,U S' L S,U L' U L y R' U R,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L16_Front Left.png,AF2L16,y' U2 R U' R' U2 R' U R,y' U2 R U' R' U R' U2 R,L F L' F L F' L',(FR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L17_Front Left.png,AF2L17,U2 L F' L' F U2 R' U' R,U R' D R U' R' U' D' R,U2 F U2 R' U' R F',(BR Slot)
-Advanced Algorithms,Front Left,Trapped Corner,AF2L18_Front Left.png,AF2L18,y U2 L U' L' R' U R,y' U2 R U' R' L' U L,,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L19_Front Left.png,AF2L19,U' F U F2 U' F,y U' L U L2 U' L,U' L F2 L' F2,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L20_Front Left.png,AF2L20,U L' U2 L U R' U' R,U' L' U' L R' U' R,U' L' U' R' U' R L,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L21_Front Left.png,AF2L21,U' L U L2 U' L2 U L',L' U' L U' L' U L U' L U2 L',U' L S U2 S' L',(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L22_Front Left.png,AF2L22,U' L F' L2 U L U2 F,d R' F R F' R' U' R,U' L F' L' F U2 R U R',(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L23_Front Left.png,AF2L23,U2 R2 D' F2 D R2,U' L' U L U' L' U L R' U2 R,U2 R2 u' R2 u R2,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L24_Front Left.png,AF2L24,U' L F' L' F L U L',U' L' U L U' S' L S,,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L25_Front Left.png,AF2L25,U' R' u' R' u R,U' L' F' U' F L,U' R' D' F' D R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L26_Front Left.png,AF2L26,U2 F R' U' R F',U2 F U' F' U R' U' R,U2 L F' L' F R' U' R,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L27_Front Left.png,AF2L27,U L' U2 L f' L' f,U' F U' F' L U2 L',U' L' U' L d' R' U' R,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L28_Front Left.png,AF2L28,U' F U2 F' R U R',U' R U F U' F' R',U F U2 R U R2 F' R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L29_Front Left.png,AF2L29,U L' U L R' U R,,,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L30_Front Left.png,AF2L30,U L' U L R B L' B' M' x',d L u L u' L',U L' U L B L' B' L,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L31_Front Left.png,AF2L31,R L' U2 L R',L' U L U2 R U' R',F2 R' F2 R,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L32_Front Left.png,AF2L32,R' F U' F' R,r' F U' R U M',L' U L y' U L U' L',(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L33_Front Left.png,AF2L33,L' U L2 U' L',,,(BL Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L34_Front Left.png,AF2L34,y' U' F' R' U' R F,U' F U' F' U R U' R',U L' U2 L y U2 L' U' L,(FR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L35_Front Left.png,AF2L35,U' F U F' U' R' U' R,U2 L F' L' F R' U' R,,(BR Slot)
-Advanced Algorithms,Front Left,Trapped Edge,AF2L36_Front Left.png,AF2L36,U L' U2 L y' L' U' L,U' L' U' L y' U' L' U' L,U L' U2 L y R' U' R,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L37_Front Left.png,AF2L37,R' F R2 U' R2 F' R,R' F R2 U R' F' R U2 R',F R U' R2 F' R,(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L38_Front Left.png,AF2L38,L' U' L U R' U2 R,L' R' U2 R L,,(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L39_Front Left.png,AF2L39,L' U L U f' L' f,L' U' L U y' L' U L,L' U' L y R' U2 R,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L40_Front Left.png,AF2L40,L' U L U R U R' U R U' R',F U' R U R' U R U' R' F' R U' R',,(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L41_Front Left.png,AF2L41,L' U L y' L U L' U L U' L',L' U L B L' B L B2,L' U' L U L' U L f R f',(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L42_Front Left.png,AF2L42,L' U L U' L U L' U L U' L',,,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L43_Front Left.png,AF2L43,R' F R U' R' F' R2 U R' U R U R',L' U L U L' U L U2 R U R',L' U L U R U' R' U' R U R',(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L44_Front Left.png,AF2L44,F U' R U' R' U R' U' R F',L' U L y' L U' L' U' L U L',L' U L U L' U L U f R f',(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L45_Front Left.png,AF2L45,L' U L2 U L' U L U L',L' U L U L' U L2 U L',,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L46_Front Left.png,AF2L46,L' U' L U y' R' U R U' R' U' R,L' U L y' U2 R' U2 R U' R' U R,L' U' L d R' U R U' R' U' R,(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L47_Front Left.png,AF2L47,L' U' L R' U R U' R' U' R,L' U L U R' U2 R U' R' U R,,(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L48_Front Left.png,AF2L48,L' U' L d' R' U R U' R' U' R,L' U L y R' U2 R U' R' U R,L' U L y' L' U2 L U' L' U L,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L49_Front Left.png,AF2L49,L' U' L y' R' U2 R U R' U' R,L' U' L y L' U2 L U L' U' L,L' U L U L' U' L y' R' U2 R,(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L50_Front Left.png,AF2L50,L' U L U L' U' L R' U R,F U2 R U' R' f R f' F',L' U2 L R' U2 R U R' U' R,(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L51_Front Left.png,AF2L51,F L U' L' U L U L' F',L' U L l U' L' U L U l',L' U' L y U2 R' U2 R U R' U' R,(BL Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L52_Front Left.png,AF2L52,F2 R' F2 D' R U' R' D R,L' U' L R U' R' U R U' R' U2 R U' R',L' U' L R' U2 R2 U R2 U R,(FR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L53_Front Left.png,AF2L53,F U2 R U2 R2 U' R F',L' U L U2 r U2 R2 U' R2 U' r',,(BR Slot)
-Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L54_Front Left.png,AF2L54,L' U L2 U2 L' U2 L U' L',L' U L2 U2 L' U' L U2 L',L' U' L F' U' L F' L' F L U L' F,(BL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L1_Back Left.png,AF2L1,S' L' S,L U' L' y L U' L',y' L' U' L U R U' R',(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L2_Back Left.png,AF2L2,L U' L' U' R U' R',l U' F2 U l',L U' L' R U2 R',(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L3_Back Left.png,AF2L3,y R' U' R U' R U' R',L U' L' y' U2 L U' L',y R' U' R2 U2 R',(BR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L4_Back Left.png,AF2L4,L U L' U2 F U F',B L' B' L U L' U2 L,L U L' y U2 L U L',(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L5_Back Left.png,AF2L5,L U L' U R U R',,,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L6_Back Left.png,AF2L6,L U L' f R f',y U2 R' U R U R U R',L U L' y' L U L',(BR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L7_Back Left.png,AF2L7,U' f' r' D r S,y' U' L' U L R U' R',U' f' L' F L S,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L8_Back Left.png,AF2L8,R D' R' U R U D R',y' U' L' U L y' L U2 L',y U' R' U R y' R U2 R',(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L9_Back Left.png,AF2L9,U L' B' L B' L' B L,y' U' L' U L U2 L U' L',,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L10_Back Left.png,AF2L10,f' L' f L' U' L,y' L' U' L F' U' F,y R' U' R y R' U' R,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L11_Back Left.png,AF2L11,L' B L B' R U2 R',y' L' U' L U' R' U' R,y R' U' R U' L' U' L,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L12_Back Left.png,AF2L12,f' L' f U2 R' U' R,y R' U' R y' U2 R' U' R,y' L' U' L y U2 R' U' R,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L13_Back Left.png,AF2L13,U L U L2 U2 L,U L U2 L2 U L,,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L14_Back Left.png,AF2L14,y' U L' U L R' U2 R,y U R' U R L' U2 L,U L U L' F' U F,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L15_Back Left.png,AF2L15,U L R' U R L',U L R' U L' R,,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L16_Back Left.png,AF2L16,L U2 L' U L' U' L,U2 L U' L' U2 L' U L,U2 L U' L' U L' U2 L,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L17_Back Left.png,AF2L17,U2 L U' L' y L' U2 L,U2 L U' L' y' R' U2 R,,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Corner,AF2L18_Back Left.png,AF2L18,U2 L U' L' R' U R,L U2 L' U' R' U' R,,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L19_Back Left.png,AF2L19,U' L U L2 U' L,,,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L20_Back Left.png,AF2L20,U' L U' L' R U' R',y U' R' U' L' U' L R,,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L21_Back Left.png,AF2L21,U' L U L' U2 R' U' R,U2 L U' L' R' U' R,,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L22_Back Left.png,AF2L22,U r' U L U' x L' U' L,U L U' L' U S' L' S,y' U' L F' L' F U2 R U R',(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L23_Back Left.png,AF2L23,U2 R2 D B2 D' R2,U2 R2 u R2 u' R2,U L U' L' U L U' L' R U2 R',(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L24_Back Left.png,AF2L24,y' U' L F' L' F L U L',U' R' U' R2 u R u' R',,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L25_Back Left.png,AF2L25,d' L' u' L' u L,U' L U' L' F' L F L',,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L26_Back Left.png,AF2L26,U2 R d' R' U R F',U2 L F' U' F L',,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L27_Back Left.png,AF2L27,U' L U' L' R2 F R F' R,U' L U' L' U' f R' f',U' L U' L' d' R U' R',(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L28_Back Left.png,AF2L28,U' L U2 L' F U F',U L U L' d R U R',U f' L f L' U2 L,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L29_Back Left.png,AF2L29,U L U L' R U R',U' L U2 L' U' R U R',,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L30_Back Left.png,AF2L30,U L U L' U' f R f',U R u R u' R',,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L31_Back Left.png,AF2L31,L U' L2 U L,,,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L32_Back Left.png,AF2L32,F' L U' L' F,R u R' U R u' R',L U' L' d' L' U L,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L33_Back Left.png,AF2L33,L U' L' U2 R' U R,R' L U2 L' R,,(BR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L34_Back Left.png,AF2L34,U' F' D' L' D F,,,(FL Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L35_Back Left.png,AF2L35,U' L U L' U' F' U' F,U' L U L' y U' L' U' L,U' L U L' y' U' R' U' R,(FR Slot)
-Advanced Algorithms,Back Left,Trapped Edge,AF2L36_Back Left.png,AF2L36,U' L U' L' y' L U2 L',,,(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L37_Back Left.png,AF2L37,L U L' y' U' R U' R',L U' L' d' L U L',L U L' F U2 F',(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L38_Back Left.png,AF2L38,L U L' U' R U2 R',R L U2 L' R',,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L39_Back Left.png,AF2L39,L U L' U y R U' R',L U L' B' R B R',L U' L' U f R f',(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L40_Back Left.png,AF2L40,L U' L2 U' L U' L' U' L,,,(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L41_Back Left.png,AF2L41,f' L f R U R2 F R F',L U' L' U' L U' L' d' L' U' L,L U' L' y' R' U R U R' U' R,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L42_Back Left.png,AF2L42,L U' L' U' R' U R U R' U' R,,,(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L43_Back Left.png,AF2L43,L U' L' U L' U' L U' L' U L,,,(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L44_Back Left.png,AF2L44,L U' L' y L' U' L U' L' U L,L U' L' y' R' U' R U' R' U R,L U L' U' L U' L' b' R' b,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L45_Back Left.png,AF2L45,L U' L' U' R' U' R U' R' U R,,,(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L46_Back Left.png,AF2L46,L U L' y U2 L U2 L' U' L U L',L U' L' U' L U L' U y L U' L',L U' L' U' L U L' F' L F L',(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L47_Back Left.png,AF2L47,L U' L' U' L U L' R U' R',L U L' U R U2 R' U' R U R',y' L' U L U R' U2 R U' R' U R,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L48_Back Left.png,AF2L48,L U' L' U' L U L' y' L U2 L',L U L' y' L U2 L' U' L U L',L U' L' R' F R U R' U' F' R,(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L49_Back Left.png,AF2L49,L U' L' y L U2 L' U L U' L',L U L' y U L U' L' U L U L',,(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L50_Back Left.png,AF2L50,L U' L' U' R U2 R' U R U' R',L U L' R U' R' U R U R',,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L51_Back Left.png,AF2L51,L U' L' y' U2 L U2 L' U L U' L',L U L' y' U' L U' L' U L U L',f' L f U2 R' U' R U R' U2 R,(BR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L52_Back Left.png,AF2L52,L U' L2 U2 L U2 L' U L,L U' L2 U2 L U L' U2 L,,(FL Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L53_Back Left.png,AF2L53,L U L' R U2 R' y' U R' U' R,L U L' R U2 R' U F' U' F,,(FR Slot)
-Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L54_Back Left.png,AF2L54,L U L' R U2 R2 U' R2 U' R',,,(BR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L1_Back Right.png,AF2L1,R' U' R U L U' L',L R' U' R L',M' f' E,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L2_Back Right.png,AF2L2,F R' U2 R F',R' U' R F U' F',R' U' R y' R U' R',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L3_Back Right.png,AF2L3,R' U' R2 U2 R',R' U2 R2 U' R',,(FR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L4_Back Right.png,AF2L4,U2 R' U R U' L U L',,,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L5_Back Right.png,AF2L5,U2 R' U R U2 F U F',y R U R' U L U L',U2 R' U R y' U2 R U R',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L6_Back Right.png,AF2L6,U2 R' U R U R U R',y R U R' F U F',f R f' R U R',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L7_Back Right.png,AF2L7,U' R' U R L U' L',U' R' U' R L U L',,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L8_Back Right.png,AF2L8,U' R' U R U2 F' r U r',U' R' U' R d' L U L',U' R' U R d' L U' L',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L9_Back Right.png,AF2L9,U R' U2 R U' R U R',U' R' U R U2 R U' R',,(FR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L10_Back Right.png,AF2L10,R' U' R f' L' f,R' U' R y R' U' R,B' R B R' L U' L',(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L11_Back Right.png,AF2L11,R' U' R U' L' U' L,,,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L12_Back Right.png,AF2L12,B' R B R' U2 R U' R',R' U' R U2 F' U' F,R' U' R y U2 L' U' L,(FR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L13_Back Right.png,AF2L13,U R' U R y U2 R' U R,U R' U R y U R' U2 R,U R' U R y' U2 L' U L,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L14_Back Right.png,AF2L14,U R' U R L' U2 L,,,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L15_Back Right.png,AF2L15,U S R S',y U R L' U L R',y' U L R' U R L',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L16_Back Right.png,AF2L16,R B R' B R B' R',l U R' U R U' l',y' U2 L U' L' U2 L' U L,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L17_Back Right.png,AF2L17,U L' D L U' L' U' D' L,y U2 R U' R' y R' U2 R,U2 f R f' U L' U' L,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Corner,AF2L18_Back Right.png,AF2L18,y U2 R U' R' L' U L,y' U2 L U' L' R' U R,,(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L19_Back Right.png,AF2L19,R' U R L U' L' U L U L',y U' R U R2 U' R,y' U' L U L2 U' L,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L20_Back Right.png,AF2L20,U' R' U' R L' U' L,,,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L21_Back Right.png,AF2L21,U' R S' U2 S R',U2 R U2 R2 U' R2 U R',U' R U R2 U' R2 U R',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L22_Back Right.png,AF2L22,y U R' F R F' R' U' R,U' l U' R' U x U2 L U L',U' R B' R2 U R U2 R B R',(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L23_Back Right.png,AF2L23,U2 L2 D' B2 D L2,U2 r2 U' F2 U r2,U2 L2 u' L2 u L2,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L24_Back Right.png,AF2L24,U' R' U R U' S R S',y U R' F R F' U2 L' U' L,y U R' F R2 U' R' U2 F',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L25_Back Right.png,AF2L25,U' R' U' R U f' L' f,U' L' u' L' u L,U' R' U' R y U R' U' R,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L26_Back Right.png,AF2L26,U2 f R' f' U L' U' L,U2 f U' R' U f',U2 F U' R' U R F',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L27_Back Right.png,AF2L27,U R' U2 R F' U' F,U' R' U' R d' L' U' L,U' f R' f' U' R U' R',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L28_Back Right.png,AF2L28,U R' U R U f' L f,U R' U R d L' U L,U R' U R y R' U2 R,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L29_Back Right.png,AF2L29,U R' U R L' U L,,,(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L30_Back Right.png,AF2L30,U F D R D' F',U R' U R U' F' U F,d R u R u' R',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L31_Back Right.png,AF2L31,L R' U2 R L',,,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L32_Back Right.png,AF2L32,F R' U R F',R' U R y' U R U' R',R' U R y U L U' L',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L33_Back Right.png,AF2L33,R' U R2 U' R',R' U2 R2 U2 R',R2 F R2 F',(FR Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L34_Back Right.png,AF2L34,y U' F' R' U' R F,,,(BL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L35_Back Right.png,AF2L35,U' f R f' U' L' U' L,y U2 L U' F' U F L',y' U2 L F' U' F L',(FL Slot)
-Advanced Algorithms,Back Right,Trapped Edge,AF2L36_Back Right.png,AF2L36,U R' U2 R y' R' U' R,U R' U2 R y L' U' L,,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L37_Back Right.png,AF2L37,y R U' R' U' f R f',R' U R d' R' U' R,R' U' R l U L' U' M',(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L38_Back Right.png,AF2L38,R' U' R U2 L' U L,R' L' U2 L R,,(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L39_Back Right.png,AF2L39,F' R' U2 R U' F,R' U' R U y L' U L,R' U R d R' U' R,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L40_Back Right.png,AF2L40,R' U R U L U L' U L U' L',,,(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L41_Back Right.png,AF2L41,R' U R F R' F R F2,R' U R y' R U R' U R U' R',,(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L42_Back Right.png,AF2L42,R' U R U' R U R' U R U' R',,,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L43_Back Right.png,AF2L43,R' U R U L U' L' U' L U L',,,(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L44_Back Right.png,AF2L44,R' U R U' L' U L d' L U L',R' U R y L U' L' U' L U L',R' U R y' R U' R' U' R U R',(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L45_Back Right.png,AF2L45,R' U R U R' U R2 U R',R' U R2 U R' U R U R',,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L46_Back Right.png,AF2L46,R' U' R y U R' U R U' R' U' R,R' U R y U2 R' U2 R U' R' U R,,(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L47_Back Right.png,AF2L47,R' U R U L' U2 L U' L' U L,R' U' R L' U L U' L' U' L,y R U2 R' L U2 L' U' L U L',(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L48_Back Right.png,AF2L48,R' U2 R y' R' U R U' R' U' R,R' U R y' R' U2 R U' R' U R,R' U R U' R' U2 L F' R2 U' R2 U F L' R,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L49_Back Right.png,AF2L49,R' U R U R' U' R y R' U2 R,R' U' R y R' U2 R U R' U' R,,(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L50_Back Right.png,AF2L50,R' U' R U' L' U2 L U L' U' L,R' U R U R' U' R L' U L,,(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L51_Back Right.png,AF2L51,R' U' R y' U2 R' U2 R U R' U' R,R' U R L F' R' F R F L',R' U' R U d R' U2 R U R' U' R,(FR Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L52_Back Right.png,AF2L52,R' U R U2 L U2 L' U2 L U' L',,,(BL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L53_Back Right.png,AF2L53,R' U R y' U R U2 R' U2 R U' R',R' U' R L' U2 L y U' L U L',R' U' R L' U2 L U' F U F',(FL Slot)
-Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L54_Back Right.png,AF2L54,R' U R2 U2 R' U R' F R F',R' U R2 U2 R' U2 R U' R',R' U' R U2 R' U2 R2 U R',(FR Slot)
-Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,,(Target Slot)
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot)
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot)
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot)
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L4_Front Right.png,UF2L4,R' F U' F' R,,,(BR Slot)
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L5_Front Right.png,UF2L5,R' F U F' R,,,(FL Slot)
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L6_Front Right.png,UF2L6,F R' U' R F',,,(BR Slot)
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L7_Front Right.png,UF2L7,U R' U' R2 U R2' U' R,,,(BR Slot)
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L8_Front Right.png,UF2L8,U' R U R2' U' R2 U R',,,(FR Slot)
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L9_Front Right.png,UF2L9,R' u' R' u R,,,(FR Slot)
-Useful Cases,Front Right,Edge insertions,UF2L10_Front Right.png,UF2L10,F' R U R' U' R' F R,,,(FR Slot)
-Useful Cases,Front Right,Edge insertions,UF2L11_Front Right.png,UF2L11,R' F' R U R U' R' F,,,(FR Slot)
-Useful Cases,Front Right,"Corner solved, edge in slot",UF2L12_Front Right.png,UF2L12,R2 U' R2' U R2,,,(FR Slot)
-Useful Cases,Front Right,"Corner solved, edge in slot",UF2L13_Front Right.png,UF2L13,R2 U R2 U' R2',,,(BR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L14_Front Right.png,UF2L14,F R U' R' U' F',,,(FL Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L15_Front Right.png,UF2L15,R2 U' R' U R2,Only if the BR Slot is empty,,(FR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L16_Front Right.png,UF2L16,R2 U R U' R2',Only if the FR Slot is empty,,(BR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L17_Front Right.png,UF2L17,R' D' F D R,R' u' R u R,,(FL Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L18_Front Right.png,UF2L18,r U' R' U R U r',,,(FR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L19_Front Right.png,UF2L19,M U r U' r' U' M',,,(FR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L20_Front Right.png,UF2L20,R' U R U' R U R' ,Only if the BR Slot is empty,,(FR Slot)
-Useful Cases,Back Right,Miscellaneous,UF2L21_Back Right.png,UF2L21,R U' R' U R' U' R ,Only if the FR Slot is empty,,(BR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L22_Front Right.png,UF2L22,R U R' L' U' L,,,(FL Slot)
-Useful Cases,Front Left,Miscellaneous,UF2L23_Front Left.png,UF2L23,L' U' L R U R',,,(FR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L24_Front Right.png,UF2L24,R U R' r' U' R U M',Only if the FR Slot is empty,,(BR Slot)
-Useful Cases,Front Right,Miscellaneous,UF2L25_Front Right.png,UF2L25,R U R' f R f',Only if the FR Slot is empty,,(BR Slot)
-Useful Cases,Front Left,KeyHole,UF2L26_Front Left.png,UF2L26,D R U' R' D',Only if the FR Slot is empty,,(FL Slot)
-Useful Cases,Front Left,KeyHole,UF2L27_Front Left.png,UF2L27,D' L' U L D,Only if the FR Slot is empty,,(FL Slot)
+Tipo,Slot,Grupo,Ruta,Nombre,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,Target Slot,Set Up
+Basic Algorithms,Working Slot,Group,Case Name_Working Slot.png,Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2 or Case from another angle.,,Set Up Algorithm
+Basic Algorithms,Front Right,Free Pairs,F2L1_Front Right.png,F2L1,U R U' R',R' F R F',,,R U R' U'
+Basic Algorithms,Front Right,Free Pairs,F2L2_Front Right.png,F2L2,F R' F' R,y' U' R' U R,,,R' F R F'
+Basic Algorithms,Front Right,Free Pairs,F2L3_Front Right.png,F2L3,F' U' F,y' R' U' R,,,F' U F
+Basic Algorithms,Front Right,Free Pairs,F2L4_Front Right.png,F2L4,R U R',y' f R f',,,R U' R'
+Basic Algorithms,Front Right,Disconnected Pairs,F2L5_Front Right.png,F2L5,U' R U R' U2 R U' R',U' R U R' U' R U2 R',,,R U R' 2U' R U' R' U
+Basic Algorithms,Front Right,Disconnected Pairs,F2L6_Front Right.png,F2L6,U' r U' R' U R U r',y' U R' U' R U2 R' U R,y F2 R U R' U' F2,,r U' R' U' R U r' U
+Basic Algorithms,Front Right,Disconnected Pairs,F2L7_Front Right.png,F2L7,U' R U2 R' U' R U2 R',M' U' M U2 r U' r',,,R 2U' R' U R 2U' R' U
+Basic Algorithms,Front Right,Disconnected Pairs,F2L8_Front Right.png,F2L8,d R' U2 R U R' U2 R,r' U2 R2 U R2 U r,,,R' 2U' R U' R' 2U' R d'
+Basic Algorithms,Front Right,Disconnected Pairs,F2L9_Front Right.png,F2L9,U' R U' R' U F' U' F,F R U R' U' F' R U' R',,,F' U F U' R U R' U
+Basic Algorithms,Front Right,Disconnected Pairs,F2L10_Front Right.png,F2L10,U' R U R' U R U R',U2 R U' R' U' R U R',,,R U' R' U' R U' R' U
+Basic Algorithms,Front Right,Disconnected Pairs,F2L11_Front Right.png,F2L11,U R U2 R' U R U' R',U R U2 R2 F R F',,,R U R' U' R 2U' R' U'
+Basic Algorithms,Front Right,Disconnected Pairs,F2L12_Front Right.png,F2L12,y' U' R' U2 R U' R' U R,y U' L' U2 L U' L' U L,,,R' U' R U R' 2U' R U y
+Basic Algorithms,Front Right,Disconnected Pairs,F2L13_Front Right.png,F2L13,U2 R U R' U R U' R',R U' R' U2 R U R',,,R U R' U' R U' R' 2U'
+Basic Algorithms,Front Right,Disconnected Pairs,F2L14_Front Right.png,F2L14,r U' r' U2 r U r',F' L' U2 L F,,,r U' r' 2U' r U r'
+Basic Algorithms,Front Right,Connected Pairs,F2L15_Front Right.png,F2L15,y' R U2 R2 U' R2 U' R',U' R U2 R' U F' U' F,,,R U 2R' U 2R' 2U' R' y
+Basic Algorithms,Front Right,Connected Pairs,F2L16_Front Right.png,F2L16,R U' R' U R U' R' U2 R U' R',R' U2 R2 U R2 U R,,,R U R' 2U' R U R' U' R U R'
+Basic Algorithms,Front Right,Connected Pairs,F2L17_Front Right.png,F2L17,y' U R' U R U' R' U' R,M' U' R U R' U2 R U' r',,,R' U R U R' U' R U' y
+Basic Algorithms,Front Right,Connected Pairs,F2L18_Front Right.png,F2L18,U' R U' R' U R U R',R U2 R' U2 R U R' U2 R U' R',,,R U' R' U' R U R' U
+Basic Algorithms,Front Right,Connected Pairs,F2L19_Front Right.png,F2L19,R' D' R U' R' D R U R U' R',R U R' U2 R U' R' U R U' R',M U r U' r' U' M',,R U R' U' R' D' R U R' D R
+Basic Algorithms,Front Right,Connected Pairs,F2L20_Front Right.png,F2L20,R U' R' U2 F' U' F,R U' R' U2 y' R' U' R,U F U R U' R' F' R U R',r U r' U r U2 r' U' r U' r',F' U F 2U' R U R'
+Basic Algorithms,Front Right,Connected Pairs,F2L21_Front Right.png,F2L21,R U2 R' U' R U R',y2 L U2 L' U' L U L',,,R U' R' U R 2U' R'
+Basic Algorithms,Front Right,Connected Pairs,F2L22_Front Right.png,F2L22,y' R' U2 R U R' U' R,R' F R F' R U' R' U R U' R',,,R' U R U' R' 2U' R y
+Basic Algorithms,Front Right,Connected Pairs,F2L23_Front Right.png,F2L23,U R U' R' U' R U' R' U R U' R',U F R' F' R U R U R',U2 R2 U2 R' U' R U' R2,,R U R' U' R U R' U R U R' U'
+Basic Algorithms,Front Right,Connected Pairs,F2L24_Front Right.png,F2L24,F U R U' R' F' R U' R',y' R' U' R U2 R' U' R U R' U' R,U' R U R2 F R F' R U' R',,R U R' F R U R' U' F'
+Basic Algorithms,Front Right,Corner In Slot,F2L25_Front Right.png,F2L25,U' R' F R F' R U R',R' F' R U R U' R' F,,,R U' R' F R' F' R U
+Basic Algorithms,Front Right,Corner In Slot,F2L26_Front Right.png,F2L26,U R U' R' F R' F' R,R S' R' U R S R',,,R' F R F' R U R' U'
+Basic Algorithms,Front Right,Corner In Slot,F2L27_Front Right.png,F2L27,R U' R' U R U' R',F' U' F U2 R U' R',,,R U R' U' R U R'
+Basic Algorithms,Front Right,Corner In Slot,F2L28_Front Right.png,F2L28,R U R' U' F R' F' R,y L' U L U' L' U L,,,R' F R F' U R U' R'
+Basic Algorithms,Front Right,Corner In Slot,F2L29_Front Right.png,F2L29,R' F R F' U R U' R',y' R' U' R U R' U' R,,,R U R' U' F R' F' R
+Basic Algorithms,Front Right,Corner In Slot,F2L30_Front Right.png,F2L30,R U R' U' R U R',U' F R' F' R2 U R',,,R U' R' U R U' R'
+Basic Algorithms,Front Right,Edge In Slot,F2L31_Front Right.png,F2L31,U' R' F R F' R U' R',R U' R' U y' R' U R,,,R U R' F R' F' R U
+Basic Algorithms,Front Right,Edge In Slot,F2L32_Front Right.png,F2L32,U R U' R' U R U' R' U R U' R',R U R' U' R U R' U' R U R',U' F R' F' R U' R U R',R2 U R2 U R2 U2 R2,R U R' U' R U R' U' R U R' U'
+Basic Algorithms,Front Right,Edge In Slot,F2L33_Front Right.png,F2L33,U' R U' R' U2 R U' R',R U R' U' R U' R' U R U' R',,,R U R' 2U' R U R' U
+Basic Algorithms,Front Right,Edge In Slot,F2L34_Front Right.png,F2L34,U R U R' U2 R U R',U' R U2 R' U R U R',U R' D' R U' R' D R,U' R' D' R U R' D R,R U' R' 2U' R U' R' U'
+Basic Algorithms,Front Right,Edge In Slot,F2L35_Front Right.png,F2L35,U' R U R' U F' U' F,U' R U R' d R' U' R,U M' U R U' r' R U' R',,F' U F U' R U' R' U
+Basic Algorithms,Front Right,Edge In Slot,F2L36_Front Right.png,F2L36,U F' U' F U' R U R',U2 R' F R F' U2 R U R',,,R U' R' U F' U F U'
+Basic Algorithms,Front Right,Pieces In Slot,F2L37_Front Right.png,F2L37,R2 U2 F R2 F' U2 R' U R',R' F R F' R U' R' U R U' R' U2 R U' R',,,R U' R 2U' F 2R' F' 2U' 2R'
+Basic Algorithms,Front Right,Pieces In Slot,F2L38_Front Right.png,F2L38,R U' R' U' R U R' U2 R U' R',R U R' U' R U2 R' U' R U R',,,R U R' 2U' R U' R' U R U R'
+Basic Algorithms,Front Right,Pieces In Slot,F2L39_Front Right.png,F2L39,R U' R' U R U2 R' U R U' R',R U2 R U R' U R U2 R2,,,R U R' U' R 2U' R' U' R U R'
+Basic Algorithms,Front Right,Pieces In Slot,F2L40_Front Right.png,F2L40,r U' r' U2 r U r' R U R',F' L' U2 L F R U R',,,R U' R' r U' r' 2U' r U r'
+Basic Algorithms,Front Right,Pieces In Slot,F2L41_Front Right.png,F2L41,R U' R' r U' r' U2 r U r',R U' R' F' L' U2 L F,,,r U' r' 2U' r U r' R U R'
+Basic Algorithms,Front Right,Pieces In Slot,F2L42_Front Right.png,F2L42,It's ready,,,,It's ready
+Basic Algorithms,Front Left,Free Pairs,F2L1_Front Left.png,F2L1,F' r U r',F' L F L',,,r U' r' F
+Basic Algorithms,Front Left,Free Pairs,F2L2_Front Left.png,F2L2,U' L' U L,L F' L' F,,,L' U' L U
+Basic Algorithms,Front Left,Free Pairs,F2L3_Front Left.png,F2L3,L' U' L,U2 R' F R U R' F' R,,,L' U L
+Basic Algorithms,Front Left,Free Pairs,F2L4_Front Left.png,F2L4,F U F',y L U L',,,F U' F'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L5_Front Left.png,F2L5,U R' F r U' r' F' R,U2 F R U R' U2 F',,,R' F r U r' F' R U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L6_Front Left.png,F2L6,U L' U' L U2 L' U L,F2 R U R' U' F2,,,L' U' L 2U' L' U L U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L7_Front Left.png,F2L7,F U R U2 R' U F',d' L U2 L' U2 L U' L',,,F U' R 2U' R' U' F'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L8_Front Left.png,F2L8,U L' U2 L U L' U2 L,U r' F2 r U2 r' F r,,,L' 2U' L U' L' 2U' L U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L9_Front Left.png,F2L9,U L' U' L U' L' U' L,F2 U R U' R' F2,,,L' U L U L' U L U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L10_Front Left.png,F2L10,U L' U L U' F U F',F U' R U R' U2 F',,,F U' F' U L' U' L U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L11_Front Left.png,F2L11,U L' U L2 F' L' F L' U L,y U L U2 L' U L U' L',,,L' U' L F' L F 2L' U' L U'
+Basic Algorithms,Front Left,Disconnected Pairs,F2L12_Front Left.png,F2L12,U' L' U2 L U' L' U L,L' U L U' L' U L U' L' U' L,,,L' U' L U L' 2U' L U
+Basic Algorithms,Front Left,Disconnected Pairs,F2L13_Front Left.png,F2L13,l' U l U2 l' U' l,F R U2 R' F',,,l' U l 2U' l' U' l
+Basic Algorithms,Front Left,Disconnected Pairs,F2L14_Front Left.png,F2L14,L' U L U2 L' U' L,U2 L' U' L U' L' U L,,,L' U L 2U' L' U' L
+Basic Algorithms,Front Left,Connected Pairs,F2L15_Front Left.png,F2L15,L' U L U' L' U L U2 L' U L,L U2 L2 U' L2 U' L',,,L' U' L 2U' L' U' L U L' U' L
+Basic Algorithms,Front Left,Connected Pairs,F2L16_Front Left.png,F2L16,U L' U2 L U' F U F',U L' U2 L d' L U L',,,F U' F' U L' 2U' L U'
+Basic Algorithms,Front Left,Connected Pairs,F2L17_Front Left.png,F2L17,U L' U L U' L' U' L,y' R U' R' U2 R U' R' U F' U F,,,L' U L U L' U' L U'
+Basic Algorithms,Front Left,Connected Pairs,F2L18_Front Left.png,F2L18,d' L U' L' U L U L',y U' L U' L' U L U L',,,L U' L' U' L U L' d
+Basic Algorithms,Front Left,Connected Pairs,F2L19_Front Left.png,F2L19,L' U L U2 F U F',F U2 R U R' U F',,,F U' F' 2U' L' U' L
+Basic Algorithms,Front Left,Connected Pairs,F2L20_Front Left.png,F2L20,F U' R U' R' U2 F',L' U' L U2 L' U L U' L' U L,,,F 2U' R U R' U F'
+Basic Algorithms,Front Left,Connected Pairs,F2L21_Front Left.png,F2L21,y L U2 L' U' L U L',L F' L' F L' U L U' L' U L,,,L U' L' U L 2U' L' y'
+Basic Algorithms,Front Left,Connected Pairs,F2L22_Front Left.png,F2L22,L' U2 L U L' U' L,,,,L' U L U' L' 2U' L
+Basic Algorithms,Front Left,Connected Pairs,F2L23_Front Left.png,F2L23,F' U' L' U L F L' U L,F U' R U R' U R U2 R' F',,,L' U' L F' L' U' L U F
+Basic Algorithms,Front Left,Connected Pairs,F2L24_Front Left.png,F2L24,U' L' U L U L' U L U' L' U L,U' F' r U r' U' L' U' L,,,L' U' L U L' U' L U' L' U' L U
+Basic Algorithms,Front Left,Corner In Slot,F2L25_Front Left.png,F2L25,U' L' U L F' r U r',U' L' U L F' L F L',,,r U' r' F L' U' L U
+Basic Algorithms,Front Left,Corner In Slot,F2L26_Front Left.png,F2L26,r U r' U' r' F r F',U L F' L' F L' U' L,,,F r' F' r U r U' r'
+Basic Algorithms,Front Left,Corner In Slot,F2L27_Front Left.png,F2L27,L' U' L U F' r U r',L' U' L U F' L F L',,,r U' r' F U' L' U L
+Basic Algorithms,Front Left,Corner In Slot,F2L28_Front Left.png,F2L28,L' U L U' L' U L,L' U L2 F' L' F,,,L' U' L U L' U' L
+Basic Algorithms,Front Left,Corner In Slot,F2L29_Front Left.png,F2L29,L' U' L U L' U' L,U L' U2 L U2 L' U' L,,,L' U L U' L' U L
+Basic Algorithms,Front Left,Corner In Slot,F2L30_Front Left.png,F2L30,L F' L' F U' L' U L,y' R U R' U' R U R',,,L' U' L U F' L F L'
+Basic Algorithms,Front Left,Edge In Slot,F2L31_Front Left.png,F2L31,U L F' L' F L' U L,L' U L U' y L U' L',,,L' U' L F' L F L' U'
+Basic Algorithms,Front Left,Edge In Slot,F2L32_Front Left.png,F2L32,U' L' U L U' L' U L U' L' U L,U L' U L U' L' U2 L U L' U' L,,,L' U' L U L' U' L U L' U' L U
+Basic Algorithms,Front Left,Edge In Slot,F2L33_Front Left.png,F2L33,R' D R U' R' D' R,U L' U2 L U' L' U' L,,,R' D R U R' D' R
+Basic Algorithms,Front Left,Edge In Slot,F2L34_Front Left.png,F2L34,U L' U L U2 L' U L,U L' U L U L' U2 L,,,L' U' L 2U' L' U' L U'
+Basic Algorithms,Front Left,Edge In Slot,F2L35_Front Left.png,F2L35,U2 F U F' U' L' U L,U' F R' F R F' U F',,,L' U' L U F U' F' 2U'
+Basic Algorithms,Front Left,Edge In Slot,F2L36_Front Left.png,F2L36,U L' U' L d' L U L',U2 L' U' L F' L F L',,,L U' L' d L' U L U'
+Basic Algorithms,Front Left,Pieces In Slot,F2L37_Front Left.png,F2L37,L2 U2 F' L2 F U2 L U' L,L' U2 L U' L' U2 L U' F U F',,,L' U L' 2U' F' 2L' F 2U' 2L'
+Basic Algorithms,Front Left,Pieces In Slot,F2L38_Front Left.png,F2L38,L' U L U' L' U2 L U' L' U L,F R U2 R' U' R U R' U2 F',,,L' U' L U L' 2U' L U L' U' L
+Basic Algorithms,Front Left,Pieces In Slot,F2L39_Front Left.png,F2L39,L' U' L U L' U2 L U L' U' L,F' L F L2 U2 L U L' U' L,,,L' U L U' L' 2U' L U' L' U L
+Basic Algorithms,Front Left,Pieces In Slot,F2L40_Front Left.png,F2L40,L' U L F R U2 R' F',L' U L R' F R U2 R' F' R,,,F R 2U' R' F' L' U' L
+Basic Algorithms,Front Left,Pieces In Slot,F2L41_Front Left.png,F2L41,l' U l U2 l' U' l L' U' L,L' U L U L' U L U' y' R U R',,,L' U L l' U l 2U' l' U' l
+Basic Algorithms,Front Left,Pieces In Slot,F2L42_Front Left.png,F2L42,It's ready,,,,It's ready
+Basic Algorithms,Back Left,Free Pairs,F2L1_Back Left.png,F2L1,U L U' L',U2 L U2 L',,,L U L' U'
+Basic Algorithms,Back Left,Free Pairs,F2L2_Back Left.png,F2L2,l U L' U' M',d' R' U R,,,M U L U' l'
+Basic Algorithms,Back Left,Free Pairs,F2L3_Back Left.png,F2L3,y R' U' R,f' L' f,,,R' U R y'
+Basic Algorithms,Back Left,Free Pairs,F2L4_Back Left.png,F2L4,L U L',r B r',,,L U' L'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L5_Back Left.png,F2L5,U' L U L' U2 L U' L',U' L U L' U' L U2 L',,,L U L' 2U' L U' L' U
+Basic Algorithms,Back Left,Disconnected Pairs,F2L6_Back Left.png,F2L6,U r U' r' U' L U F L',y U R' U' R U R' U2 R,,,L F' U' L' U r U r' U'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L7_Back Left.png,F2L7,U' L U2 L' U2 L U' L',U' L U2 L' U' L U2 L',,,L U L' 2U' L 2U' L' U
+Basic Algorithms,Back Left,Disconnected Pairs,F2L8_Back Left.png,F2L8,l' U2 L2 U L2 U l,y U R' U2 R U R' U2 R,,,l' U' 2L' U' 2L' 2U' l
+Basic Algorithms,Back Left,Disconnected Pairs,F2L9_Back Left.png,F2L9,y U R' U' R U' R' U' R,U' L U' L' U f' L' f,,,R' U R U R' U R U' y'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L10_Back Left.png,F2L10,U' L U L' U L U L',U2 L U' L' U' L U L',,,L U' L' U' L U' L' U
+Basic Algorithms,Back Left,Disconnected Pairs,F2L11_Back Left.png,F2L11,U L U2 L' U L U' L',L U' L' U L U' L' U L U L',,,L U L' U' L 2U' L' U'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L12_Back Left.png,F2L12,y U' R' U2 R U' R' U R,U' L F U2 F' L' U' L U L',,,R' U' R U R' 2U' R U y'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L13_Back Left.png,F2L13,L U' L' U2 L U L',U2 L U L' U L U' L',,,L U' L' 2U' L U L'
+Basic Algorithms,Back Left,Disconnected Pairs,F2L14_Back Left.png,F2L14,l U' l' U2 l U l',y R' U R U2 R' U' R,,,l U' l' 2U' l U l'
+Basic Algorithms,Back Left,Connected Pairs,F2L15_Back Left.png,F2L15,U' L U2 L' U f' L' f,U' L U2 L' d L' U' L,,,f' L f U' L 2U' L' U
+Basic Algorithms,Back Left,Connected Pairs,F2L16_Back Left.png,F2L16,L' U2 L2 U L2 U L,L U' L' U L U' L' U2 L U' L',,,L' U' 2L' U' 2L' 2U' L
+Basic Algorithms,Back Left,Connected Pairs,F2L17_Back Left.png,F2L17,d L' U L U' L' U' L,y U R' U R U' R' U' R,,,L' U L U L' U' L d'
+Basic Algorithms,Back Left,Connected Pairs,F2L18_Back Left.png,F2L18,U' L U' L' U L U L',U' L U' L' U L U' L' U' L U' L',,,L U' L' U' L U L' U
+Basic Algorithms,Back Left,Connected Pairs,F2L19_Back Left.png,F2L19,L U L' U2 L U' L' U L U' L',L U2 L' U L U L' U L U' L',,,L U L' U' L U L' 2U' L U' L'
+Basic Algorithms,Back Left,Connected Pairs,F2L20_Back Left.png,F2L20,L U' L' U2 f' L' f,L2 F' L' F L' U2 L U' L',,,f' L f 2U' L U L'
+Basic Algorithms,Back Left,Connected Pairs,F2L21_Back Left.png,F2L21,L U2 L' U' L U L',L U L' U' L U2 L' U2 L U L',,,L U' L' U L 2U' L'
+Basic Algorithms,Back Left,Connected Pairs,F2L22_Back Left.png,F2L22,y R' U2 R U R' U' R,U F U R U' R' F' L U L',,,R' U R U' R' 2U' R y'
+Basic Algorithms,Back Left,Connected Pairs,F2L23_Back Left.png,F2L23,U L U' L' U' L U' L' U L U' L',L U L' U2 L U L' U' L U L',,,L U L' U' L U L' U L U L' U'
+Basic Algorithms,Back Left,Connected Pairs,F2L24_Back Left.png,F2L24,U2 r U R' U R U2 B r',U2 F U R U' R' F' U2 L U' L',,,r B' 2U' R' U' R U' r' 2U'
+Basic Algorithms,Back Left,Corner In Slot,F2L25_Back Left.png,F2L25,R D' R' U' R D R' L U L',L U' L' U' L U' L' U L U L',,,L U' L' R D' R' U R D R'
+Basic Algorithms,Back Left,Corner In Slot,F2L26_Back Left.png,F2L26,L S L' U L S' L',F R2 u R u' R2 F',,,L S L' U' L S' L'
+Basic Algorithms,Back Left,Corner In Slot,F2L27_Back Left.png,F2L27,L U' L' U L U' L',,,,L U L' U' L U L'
+Basic Algorithms,Back Left,Corner In Slot,F2L28_Back Left.png,F2L28,L U2 L F' L' F L',y R' U R U' R' U R,,,L F' L F L' 2U' L'
+Basic Algorithms,Back Left,Corner In Slot,F2L29_Back Left.png,F2L29,y R' U' R U R' U' R,U2 L U' L' f' L' f,,,R' U R U' R' U R y'
+Basic Algorithms,Back Left,Corner In Slot,F2L30_Back Left.png,F2L30,L U L' U' L U L',U' L U2 L' U2 L U L',,,L U' L' U L U' L'
+Basic Algorithms,Back Left,Edge In Slot,F2L31_Back Left.png,F2L31,L U' L F' L' F L',f' L f U' L U' L',,,L F' L F L' U L'
+Basic Algorithms,Back Left,Edge In Slot,F2L32_Back Left.png,F2L32,L U L' U' L U L' U' L U L',U L U' L' U L U' L' U L U' L',,,L U' L' U L U' L' U L U' L'
+Basic Algorithms,Back Left,Edge In Slot,F2L33_Back Left.png,F2L33,U' L U' L' U2 L U' L',U' L U' L' U' L U2 L',,,L U L' 2U' L U L' U
+Basic Algorithms,Back Left,Edge In Slot,F2L34_Back Left.png,F2L34,U L U L' U2 L U L',U L' D' L U' L' D L,,,L U' L' 2U' L U' L' U'
+Basic Algorithms,Back Left,Edge In Slot,F2L35_Back Left.png,F2L35,U' L U L' U f' L' f,U2 L U L' U' L F U F' L',,,f' L f U' L U' L' U
+Basic Algorithms,Back Left,Edge In Slot,F2L36_Back Left.png,F2L36,U f' L' f U' L U L',U2 f' L' f U L U' L',,,L U' L' U f' L f U'
+Basic Algorithms,Back Left,Pieces In Slot,F2L37_Back Left.png,F2L37,L U' L' l' U2 L2 U L2 U l,f' L f U' L U2 L' U2 L U' L',,,l' U' 2L' U' 2L' 2U' l L U L'
+Basic Algorithms,Back Left,Pieces In Slot,F2L38_Back Left.png,F2L38,L U L' U' L U2 L' U' L U L',L U' L' U' L U L' U' L U2 L',,,L U' L' U L 2U' L' U L U' L'
+Basic Algorithms,Back Left,Pieces In Slot,F2L39_Back Left.png,F2L39,L U L' U2 L U' L' U L U L',L U' L' U L U2 L' U L U' L',,,L U' L' U' L U L' 2U' L U' L'
+Basic Algorithms,Back Left,Pieces In Slot,F2L40_Back Left.png,F2L40,l U' l' U2 l U l' L U L',f' L f U2 L U L' U L U' L',,,L U' L' l U' l' 2U' l U l'
+Basic Algorithms,Back Left,Pieces In Slot,F2L41_Back Left.png,F2L41,f' L f U' L U L' U L U L',L2 F U F' U' L' U L',,,L U' L' U' L U' L' U f' L' f
+Basic Algorithms,Back Left,Pieces In Slot,F2L42_Back Left.png,F2L42,It's ready,,,,It's ready
+Basic Algorithms,Back Right,Free Pairs,F2L1_Back Right.png,F2L1,U f R' f',r' U' R U M',,,f R f' U'
+Basic Algorithms,Back Right,Free Pairs,F2L2_Back Right.png,F2L2,U' R' U R,R f' U' f,,,R' U' R U
+Basic Algorithms,Back Right,Free Pairs,F2L3_Back Right.png,F2L3,R' U' R,U2 r' R' F R F' r,,,R' U R
+Basic Algorithms,Back Right,Free Pairs,F2L4_Back Right.png,F2L4,f R f',y R U R',,,f R' f'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L5_Back Right.png,F2L5,U' R' F R U R' U' F' R,U r' U R U' R' U' r,,,R' F U R U' R' F' R U
+Basic Algorithms,Back Right,Disconnected Pairs,F2L6_Back Right.png,F2L6,U R' U' R U2 R' U R,U R' U' R U R' U2 R,,,R' U' R 2U' R' U R U'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L7_Back Right.png,F2L7,r U2 R2 U' R2 U' r',F R U R2 U' R F',,,r U 2R' U 2R' 2U' r'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L8_Back Right.png,F2L8,U R' U2 R U R' U2 R,U R' U2 R U2 R' U R,,,R' 2U' R U' R' 2U' R U'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L9_Back Right.png,F2L9,U R' U' R U' R' U' R,R' U R U' R' U' R U2 R' U R,,,R' U R U R' U R U'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L10_Back Right.png,F2L10,U R' U R U' f R f',y U' R U R' U R U R',,,f R' f' U R' U' R U'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L11_Back Right.png,F2L11,y U R U2 R' U R U' R',U R' F' U2 F R U R' U' R,,,R U R' U' R 2U' R' U' y'
+Basic Algorithms,Back Right,Disconnected Pairs,F2L12_Back Right.png,F2L12,U' R' U2 R U' R' U R,R' U R U' R' U R U' R' U' R,,,R' U' R U R' 2U' R U
+Basic Algorithms,Back Right,Disconnected Pairs,F2L13_Back Right.png,F2L13,r' U r U2 r' U' r,y' U2 L U L' U L U' L',,,r' U r 2U' r' U' r
+Basic Algorithms,Back Right,Disconnected Pairs,F2L14_Back Right.png,F2L14,R' U R U2 R' U' R,U2 R' U' R U' R' U R,,,R' U R 2U' R' U' R
+Basic Algorithms,Back Right,Connected Pairs,F2L15_Back Right.png,F2L15,R' U R U' R' U R U2 R' U R,R' U R U' R' U R U R' U2 R,,,R' U' R 2U' R' U' R U R' U' R
+Basic Algorithms,Back Right,Connected Pairs,F2L16_Back Right.png,F2L16,U R' U2 R U' f R f',f R' U R2 U' R2 f',,,f R' f' U R' 2U' R U'
+Basic Algorithms,Back Right,Connected Pairs,F2L17_Back Right.png,F2L17,U R' U R U' R' U' R,U R' U R U' R' U R U R' U R,,,R' U R U R' U' R U'
+Basic Algorithms,Back Right,Connected Pairs,F2L18_Back Right.png,F2L18,y U' R U' R' U R U R',d' R U' R' U R U R',,,R U' R' U' R U R' U y'
+Basic Algorithms,Back Right,Connected Pairs,F2L19_Back Right.png,F2L19,R' U R U2 f R f',R2 F R F' R U R' U2 R,,,f R' f' 2U' R' U' R
+Basic Algorithms,Back Right,Connected Pairs,F2L20_Back Right.png,F2L20,R' U' R U2 R' U R U' R' U R,M' U' r' U r U M,,,R' U' R U R' U' R 2U' R' U R
+Basic Algorithms,Back Right,Connected Pairs,F2L21_Back Right.png,F2L21,y' L U2 L' U' L U L',y R U2 R' U' R U R',,,L U' L' U L 2U' L' y
+Basic Algorithms,Back Right,Connected Pairs,F2L22_Back Right.png,F2L22,R' U2 R U R' U' R,,,,R' U R U' R' 2U' R
+Basic Algorithms,Back Right,Connected Pairs,F2L23_Back Right.png,F2L23,U R' F R' F' R2 U' R' U R,U2 l' U' L U' L' U2 B' l,,,R' U' R U 2R' F R F' R U'
+Basic Algorithms,Back Right,Connected Pairs,F2L24_Back Right.png,F2L24,R' U' R U2 R' U' R U R' U' R,U2 R2 U2 R U R' U R2,,,R' U R U' R' U R 2U' R' U R
+Basic Algorithms,Back Right,Corner In Slot,F2L25_Back Right.png,F2L25,U' R' U M U' R U M',R' S' R U' R' S R,,,M U' R' U M' U' R U
+Basic Algorithms,Back Right,Corner In Slot,F2L26_Back Right.png,F2L26,R' U R U R' U R U' R' U' R,R U R U R U' R' U' R',,,R' U R U R' U' R U' R' U' R
+Basic Algorithms,Back Right,Corner In Slot,F2L27_Back Right.png,F2L27,R' U2 R' F R F' R,R' U' R U r' U' R U M',,,R' F R' F' R 2U' R
+Basic Algorithms,Back Right,Corner In Slot,F2L28_Back Right.png,F2L28,R' U R U' R' U R,,,,R' U' R U R' U' R
+Basic Algorithms,Back Right,Corner In Slot,F2L29_Back Right.png,F2L29,R' U' R U R' U' R,U R' U2 R U2 R' U' R,,,R' U R U' R' U R
+Basic Algorithms,Back Right,Corner In Slot,F2L30_Back Right.png,F2L30,y' L U L' U' L U L',f R f' U' f R f',,,L U' L' U L U' L' y
+Basic Algorithms,Back Right,Edge In Slot,F2L31_Back Right.png,F2L31,R' U R' F R F' R,f R' f' U R' U R,,,R' F R' F' R U' R
+Basic Algorithms,Back Right,Edge In Slot,F2L32_Back Right.png,F2L32,U' R' U R U' R' U R U' R' U R,R' U' R U R' U' R U R' U' R,,,R' U' R U R' U' R U R' U' R U
+Basic Algorithms,Back Right,Edge In Slot,F2L33_Back Right.png,F2L33,U' R D R' U R D' R',U' R' U' R U2 R' U' R,,,R D R' U' R D' R' U
+Basic Algorithms,Back Right,Edge In Slot,F2L34_Back Right.png,F2L34,U R' U R U R' U2 R,U f R2 U R2 U' f',,,R' 2U' R U' R' U' R U'
+Basic Algorithms,Back Right,Edge In Slot,F2L35_Back Right.png,F2L35,U' f R f' U R' U' R,R' F R' F' R U R U' R' U' R,,,R' U R U' f R' f' U
+Basic Algorithms,Back Right,Edge In Slot,F2L36_Back Right.png,F2L36,U2 R' U' R U R' F' U' F R,U R' F R' F' R U' R,,,R' F' U F R U' R' U R 2U'
+Basic Algorithms,Back Right,Pieces In Slot,F2L37_Back Right.png,F2L37,R' U R r U2 R2 U' R2 U' r',R' U2 R U' R' U2 R U' f R f',,,r U 2R' U 2R' 2U' r' R' U' R
+Basic Algorithms,Back Right,Pieces In Slot,F2L38_Back Right.png,F2L38,R' U' R U2 R' U R U' R' U' R,R' U R U' R' U2 R U' R' U R,,,R' U R U R' U' R 2U' R' U R
+Basic Algorithms,Back Right,Pieces In Slot,F2L39_Back Right.png,F2L39,R' U' R U R' U2 R U R' U' R,R' U R U R' U' R U2 R' U R,,,R' U R U' R' 2U' R U' R' U R
+Basic Algorithms,Back Right,Pieces In Slot,F2L40_Back Right.png,F2L40,R' U R r' U r U2 r' U' r,R' U R f U R2 U' f',,,r' U r 2U' r' U' r R' U' R
+Basic Algorithms,Back Right,Pieces In Slot,F2L41_Back Right.png,F2L41,r' U r U2 r' U' r R' U' R,R' U R' U' F' U F R2,,,R' U R r' U r 2U' r' U' r
+Basic Algorithms,Back Right,Pieces In Slot,F2L42_Back Right.png,F2L42,It's ready,,,,It's ready
+Advanced Algorithms,Working Slot,Group,Advanced Case Name_Working Slot.png,Advanced Case Name,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,(Target Slot),Set Up Algorithm
+Advanced Algorithms,Front Right,Trapped Corner,AF2L1_Front Right.png,AF2L1,S R' S',R U' R' y R U' R',R U' R' f R' f',(BR Slot),S R S'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L2_Front Right.png,AF2L2,L F' U2 F L',R U' R' L U2 L',L R U' R' U2 L',(BL Slot),L F' 2U' F L'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L3_Front Right.png,AF2L3,R U' R' U F' r U r',R U' R' U F' L F L',y' R' U2 R2 U' R',(FL Slot),r U' r' F U' R U R'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L4_Front Right.png,AF2L4,F R' F' R U R' U2 R,R U R' U2 S U' R' U R S',R U R' U2 f R f',(BR Slot),R' 2U' R U' R' F R F'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L5_Front Right.png,AF2L5,R U R' U L U L',U' R U2 M' B r',U' R U2 R' L U L',(BL Slot),L U' L' U' R U' R'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L6_Front Right.png,AF2L6,R U R' F U F',F R' F' R L' U L,R U R' b L b',(FL Slot),F U' F' R U' R'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L7_Front Right.png,AF2L7,U' F' U' f R S',y U' L' U' L R U R',R U' R' U' R U' R' f R f',(BR Slot),S R' f' U F U
+Advanced Algorithms,Front Right,Trapped Corner,AF2L8_Front Right.png,AF2L8,U' F' U2 L U L' F,U' R' F R F' U2 L U L',y' U R' U2 R F U F',(BL Slot),F' L U' L' 2U' F U
+Advanced Algorithms,Front Right,Trapped Corner,AF2L9_Front Right.png,AF2L9,y' U R' U2 R U' R U R',U R' F R F' R U' R' U' L' U' L,y' U' R' U' R U2 R U R',(FL Slot),R U' R' U R' 2U' R U' y
+Advanced Algorithms,Front Right,Trapped Corner,AF2L10_Front Right.png,AF2L10,U' R U R2 U' R U' R' U R,U2 R U' R' U' R' U' R,R' F R F' y R U' R',(BR Slot),R' U' R U R' U 2R' U' R' U
+Advanced Algorithms,Front Right,Trapped Corner,AF2L11_Front Right.png,AF2L11,R' F R F' L U2 L',R' F R F' U' L U' L',U2 R U' R' U2 B' U' B,(BL Slot),L 2U' L' F R' F' R
+Advanced Algorithms,Front Right,Trapped Corner,AF2L12_Front Right.png,AF2L12,R' F R2 U' R' U F',R' F R F' d R' F R F',F' U' F U2 L' U' L,(FL Slot),F U' R U 2R' F' R
+Advanced Algorithms,Front Right,Trapped Corner,AF2L13_Front Right.png,AF2L13,U R U R2 U2 R,U R U2 R2 U R,U R U' R' S R2 S',(BR Slot),R' 2U' 2R' U' R' U'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L14_Front Right.png,AF2L14,U l U' F2 U l',y U L' U L R' U2 R,U R B' U2 B R',(BL Slot),l U' 2F' U l' U'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L15_Front Right.png,AF2L15,U R L' U L R',U R U R' U' L' U L,U M F M',(FL Slot),R L' U' L R' U'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L16_Front Right.png,AF2L16,R U2 R' U R' U' R,U2 R U' R' U2 R' U R,U2 R U' R' U R' U2 R,(BR Slot),R' U R U' R 2U' R'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L17_Front Right.png,AF2L17,U2 R U' R' d L' U L,R U2 R' f' L' f,U2 R U' R' y R' U2 R,(BL Slot),L' U' L d' R U R' 2U'
+Advanced Algorithms,Front Right,Trapped Corner,AF2L18_Front Right.png,AF2L18,U2 R U' R' L' U L,R U2 R' U' L' U' L,,(FL Slot),L' U' L R U R' 2U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L19_Front Right.png,AF2L19,U' R U R2 U' R,U2 R U R' U2 R' U R,y U' L F2 L' F2,(BR Slot),R' U 2R' U' R' U
+Advanced Algorithms,Front Right,Trapped Edge,AF2L20_Front Right.png,AF2L20,U' R U' R' L U' L',U' R U' M' B' r',,(BL Slot),L U L' R U R' U
+Advanced Algorithms,Front Right,Trapped Edge,AF2L21_Front Right.png,AF2L21,U2 R U R' L' U L,U' R U R2 F R U F',U' R U R' U2 L' U' L,(FL Slot),L' U' L R U' R' 2U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L22_Front Right.png,AF2L22,U R' F R F' R' U' R,U R U' R' U R U' R' f R' f',U R U' R' U S R' S',(BR Slot),R' U R F R' F' R U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L23_Front Right.png,AF2L23,U2 r2 U B2 U' r2,U' F R' F' R U L U L',U2 L2 u L2 u' L2,(BL Slot),2r' U 2B' U' 2r' 2U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L24_Front Right.png,AF2L24,U R' F R2 U' R' U2 F',U R' F R F' U2 L' U' L,R U R' U' R U R' F U F',(FL Slot),F 2U' R U 2R' F' R U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L25_Front Right.png,AF2L25,U' F' R' U' R F,d' R' u' R' u R,U' R U' R' r' U' R U M',(BR Slot),F' R' U R F U
+Advanced Algorithms,Front Right,Trapped Edge,AF2L26_Front Right.png,AF2L26,U2 R B' U' B R',y U2 F R' U' R F',U2 l U' F' U l',(BL Slot),R B' U B R' 2U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L27_Front Right.png,AF2L27,U F' U2 F L' U' L,U r' F' D' F D r,U' R U' R' F U2 F',(FL Slot),L' U L F' 2U' F U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L28_Front Right.png,AF2L28,U' R U2 R' f R f',R' F R F' R U2 R2 U R,U R U R' U f R f',(BR Slot),f R' f' R 2U' R' U
+Advanced Algorithms,Front Right,Trapped Edge,AF2L29_Front Right.png,AF2L29,U R U R' L U L',U' R U2 R' U' L U L',U R U M' B r',(BL Slot),L U' L' R U' R' U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L30_Front Right.png,AF2L30,U R F U F' R',U L u L u' L',U L D F D' L',(FL Slot),R F U' F' R' U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L31_Front Right.png,AF2L31,R U' R2 U R,y M F2 M',S R2 S',(BR Slot),R' U' 2R' U R'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L32_Front Right.png,AF2L32,L F' U F L',l F' U L' U' M',y' F R' U R F',(BL Slot),L F' U' F L'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L33_Front Right.png,AF2L33,R U' R' U2 L' U L,M F2 M',U F r U2 r' F',(FL Slot),L' U' L 2U' R U R'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L34_Front Right.png,AF2L34,U' R U' R' U f R' f',d' R' D' F' D R,U' R U' R' d L U' L',(BR Slot),f R f' U' R U R' U
+Advanced Algorithms,Front Right,Trapped Edge,AF2L35_Front Right.png,AF2L35,U2 L U' F' U F L',U' R U R' y' U' L' U' L,U' R U R' U' f' L' f,(BL Slot),L F' U' F U L' 2U'
+Advanced Algorithms,Front Right,Trapped Edge,AF2L36_Front Right.png,AF2L36,U' R U' R' y L U2 L',U' R U' R' U2 F' r U r',U' R U' R' y' U' R U' R',(FL Slot),L 2U' L' y' R U R' U
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L37_Front Right.png,AF2L37,F' U R' U2 R F,R U' R' U' f R f',R U R' U' B U' B',(BR Slot),F' R' 2U' R U' F
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L38_Front Right.png,AF2L38,L R U2 R' L',R U' R' U2 L U L',R U R' U' L U2 L',(BL Slot),L R 2U' R' L'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L39_Front Right.png,AF2L39,R' F R2 U R' F',R' F R2 U R2 F' R,R' F R2 U R2 F' R2 U2 R',(FL Slot),F R U' 2R' F' R
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L40_Front Right.png,AF2L40,R U' R2 U' R U' R' U' R,R U' R' U' R U' R2 U' R,r U' r' U2 r U r' d' R U R',(BR Slot),R' U R U R' U 2R' U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L41_Front Right.png,AF2L41,F' U L' U L U' L U L' F,R U' R' U' R U' R' d' R' U' R,R U' R' y R' U R U R' U' R,(BL Slot),F' L U' L' U L' U' L U' F
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L42_Front Right.png,AF2L42,R U' R' U' R U' R' U2 L' U' L,R U' R' U' L' U L U L' U' L,r U' r' U2 r U r' d R U R',(FL Slot),L' U L 2U' R U R' U R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L43_Front Right.png,AF2L43,R U' R' U R' U' R U' R' U R,R U R' U' R U' R' U R' U' R,,(BR Slot),R' U' R U R' U R U' R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L44_Front Right.png,AF2L44,R U R' U' R U' R' f' L' f,R U' R' U f' U' L' U L' f,R U' R' y R' U' R U' R' U R,(BL Slot),f' L f R U R' U R U' R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L45_Front Right.png,AF2L45,R U' R' U' L' U' L U' L' U L,R U R' U' R U' R' U' L' U' L,y' R' U R2 U R' U R U R',(FL Slot),L' U' L U L' U L U R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L46_Front Right.png,AF2L46,F' R' U R U' R' U' R F,R U' R' U' R U R' U f R' f',R U' R' U' R U R' r' U' R U M',(BR Slot),F' R' U R U R' U' R F
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L47_Front Right.png,AF2L47,R U' R' U' R U R' L U' L',R U' R' U' R U M' B' r',R U R' U' R U2 R' U L U L',(BL Slot),L U L' R U' R' U R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L48_Front Right.png,AF2L48,R' F R2 U' R' U' R U R' U2 F',R' F R F' U2 L' U L U' L' U' L,R U' R' U' R U R' U' F U' F',(FL Slot),F 2U' R U' R' U R U 2R' F' R
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L49_Front Right.png,AF2L49,R U R' U2 R U' R' f R f',F' U' R' U2 R U R' U' R F,R U' R' y R U2 R' U R U' R',(BR Slot),f R' f' R U R' 2U' R U' R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L50_Front Right.png,AF2L50,R U' R' U R U2 R' L U2 L',R U' R' U' L U2 L' U L U' L',R U R' L U' L' U L U L',(BL Slot),L 2U' L' R 2U' R' U' R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L51_Front Right.png,AF2L51,R U R' d' L U' L' U L U L',R U R' U' y' R U' R' U R U R',R U R' L' U L U' L F' L' F L' U L,(FL Slot),L U' L' U' L U L' d R U' R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L52_Front Right.png,AF2L52,R U' R2 U2 R U R' U2 R,R U' R2 U2 R U2 R' U R,F R' F' R U' R U2 R2 U' R,(BR Slot),R' 2U' R U' R' 2U' 2R' U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L53_Front Right.png,AF2L53,R U' R' d R' U2 R L' U L,F' U2 L' U2 L2 U L' F,R U' R' U y L' U2 L R' U R,(BL Slot),L' U' L R' 2U' R d' R U R'
+Advanced Algorithms,Front Right,Both Pieces Trapped,AF2L54_Front Right.png,AF2L54,R U' R' U2 L' U2 L U2 L' U L,y' R' U R2 U2 R' U2 R U' R',y' R' U R2 U2 R' U' R U2 R',(FL Slot),L' U' L 2U' L' 2U' L 2U' R U R'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L1_Front Left.png,AF2L1,L' U' L U R U' R',M F' M',R L' U' L R',(FR Slot),R U R' U' L' U L
+Advanced Algorithms,Front Left,Trapped Corner,AF2L2_Front Left.png,AF2L2,L' U' L y R U' R',r' U F2 U' r,y' R U' R' L U2 L',(BR Slot),R U R' y' L' U L
+Advanced Algorithms,Front Left,Trapped Corner,AF2L3_Front Left.png,AF2L3,L' U' L2 U2 L',L' U2 L2 U' L',,(BL Slot),L 2U' 2L' U L
+Advanced Algorithms,Front Left,Trapped Corner,AF2L4_Front Left.png,AF2L4,U2 L' U L U' R U R',F U F' U2 R U R',U' F U' R U R2 F' R,(FR Slot),R U' R' U L' U' L 2U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L5_Front Left.png,AF2L5,L F' L' F R' U2 R,r U' r' F R' U2 R,y' R U R' U L U L',(BR Slot),R' 2U' R F' L F L'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L6_Front Left.png,AF2L6,U2 L' U L U L U L',F U F' L U L',L F' L' S' L f,(BL Slot),L U' L' U' L' U' L 2U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L7_Front Left.png,AF2L7,U' L' U L R U' R',U' L' U' L R U R',,(FR Slot),R U R' L' U' L U
+Advanced Algorithms,Front Left,Trapped Corner,AF2L8_Front Left.png,AF2L8,U L' U2 L f R f',F U2 R U R2 U' R F',U' L' U' L d' R U R',(BR Slot),f R' f' L' 2U' L U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L9_Front Left.png,AF2L9,U' L' U L U' L U2 L',U L' U2 L U' L U L',U' L' U L U2 L U' L',(BL Slot),L 2U' L' U L' U' L U
+Advanced Algorithms,Front Left,Trapped Corner,AF2L10_Front Left.png,AF2L10,L' U' L F' U' F,U L' U' F' U' F L,L' U' L y' R' U' R,(FR Slot),F' U F L' U L
+Advanced Algorithms,Front Left,Trapped Corner,AF2L11_Front Left.png,AF2L11,L' U' L U' R' U' R,,,(BR Slot),R' U R U L' U L
+Advanced Algorithms,Front Left,Trapped Corner,AF2L12_Front Left.png,AF2L12,F' L F L' U2 L U' L',L' U' L y U2 R' U' R,L' U' L y' U2 L' U' L,(BL Slot),L U L' 2U' L F' L' F
+Advanced Algorithms,Front Left,Trapped Corner,AF2L13_Front Left.png,AF2L13,U L' U L y' U2 R' U R,U L' U L y U2 L' U L,U L' U L U' F R' F' R,(FR Slot),R' U' R 2U' y L' U' L U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L14_Front Left.png,AF2L14,U L' U L R' U2 R,,,(BR Slot),R' 2U' R L' U' L U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L15_Front Left.png,AF2L15,U L' U L f' L f,U S' L S,U L' U L y R' U R,(BL Slot),f' L' f L' U' L U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L16_Front Left.png,AF2L16,y' U2 R U' R' U2 R' U R,y' U2 R U' R' U R' U2 R,L F L' F L F' L',(FR Slot),R' U' R 2U' R U R' 2U' y
+Advanced Algorithms,Front Left,Trapped Corner,AF2L17_Front Left.png,AF2L17,U2 L F' L' F U2 R' U' R,U R' D R U' R' U' D' R,U2 F U2 R' U' R F',(BR Slot),R' U R 2U' F' L F L' 2U'
+Advanced Algorithms,Front Left,Trapped Corner,AF2L18_Front Left.png,AF2L18,y U2 L U' L' R' U R,y' U2 R U' R' L' U L,,(BL Slot),R' U' R L U L' 2U' y'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L19_Front Left.png,AF2L19,U' F U F2 U' F,y U' L U L2 U' L,U' L F2 L' F2,(FR Slot),F' U 2F' U' F' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L20_Front Left.png,AF2L20,U L' U2 L U R' U' R,U' L' U' L R' U' R,U' L' U' R' U' R L,(BR Slot),R' U R U' L' 2U' L U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L21_Front Left.png,AF2L21,U' L U L2 U' L2 U L',L' U' L U' L' U L U' L U2 L',U' L S U2 S' L',(BL Slot),L U' 2L' U 2L' U' L' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L22_Front Left.png,AF2L22,U' L F' L2 U L U2 F,d R' F R F' R' U' R,U' L F' L' F U2 R U R',(FR Slot),F' 2U' L' U' 2L' F L' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L23_Front Left.png,AF2L23,U2 R2 D' F2 D R2,U' L' U L U' L' U L R' U2 R,U2 R2 u' R2 u R2,(BR Slot),2R' D' 2F' D 2R' 2U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L24_Front Left.png,AF2L24,U' L F' L' F L U L',U' L' U L U' S' L S,,(BL Slot),L U' L' F' L F L' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L25_Front Left.png,AF2L25,U' R' u' R' u R,U' L' F' U' F L,U' R' D' F' D R,(FR Slot),R' u' R u R U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L26_Front Left.png,AF2L26,U2 F R' U' R F',U2 F U' F' U R' U' R,U2 L F' L' F R' U' R,(BR Slot),F R' U R F' 2U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L27_Front Left.png,AF2L27,U L' U2 L f' L' f,U' F U' F' L U2 L',U' L' U' L d' R' U' R,(BL Slot),f' L f L' 2U' L U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L28_Front Left.png,AF2L28,U' F U2 F' R U R',U' R U F U' F' R',U F U2 R U R2 F' R,(FR Slot),R U' R' F 2U' F' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L29_Front Left.png,AF2L29,U L' U L R' U R,,,(BR Slot),R' U' R L' U' L U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L30_Front Left.png,AF2L30,U L' U L R B L' B' M' x',d L u L u' L',U L' U L B L' B' L,(BL Slot),x M B L B' R' L' U' L U'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L31_Front Left.png,AF2L31,R L' U2 L R',L' U L U2 R U' R',F2 R' F2 R,(FR Slot),R L' 2U' L R'
+Advanced Algorithms,Front Left,Trapped Edge,AF2L32_Front Left.png,AF2L32,R' F U' F' R,r' F U' R U M',L' U L y' U L U' L',(BR Slot),R' F U F' R
+Advanced Algorithms,Front Left,Trapped Edge,AF2L33_Front Left.png,AF2L33,L' U L2 U' L',,,(BL Slot),L U 2L' U' L
+Advanced Algorithms,Front Left,Trapped Edge,AF2L34_Front Left.png,AF2L34,y' U' F' R' U' R F,U' F U' F' U R U' R',U L' U2 L y U2 L' U' L,(FR Slot),F' R' U R F U y
+Advanced Algorithms,Front Left,Trapped Edge,AF2L35_Front Left.png,AF2L35,U' F U F' U' R' U' R,U2 L F' L' F R' U' R,,(BR Slot),R' U R U F U' F' U
+Advanced Algorithms,Front Left,Trapped Edge,AF2L36_Front Left.png,AF2L36,U L' U2 L y' L' U' L,U' L' U' L y' U' L' U' L,U L' U2 L y R' U' R,(BL Slot),L' U L y L' 2U' L U'
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L37_Front Left.png,AF2L37,R' F R2 U' R2 F' R,R' F R2 U R' F' R U2 R',F R U' R2 F' R,(FR Slot),R' F 2R' U 2R' F' R
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L38_Front Left.png,AF2L38,L' U' L U R' U2 R,L' R' U2 R L,,(BR Slot),R' 2U' R U' L' U L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L39_Front Left.png,AF2L39,L' U L U f' L' f,L' U' L U y' L' U L,L' U' L y R' U2 R,(BL Slot),f' L f U' L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L40_Front Left.png,AF2L40,L' U L U R U R' U R U' R',F U' R U R' U R U' R' F' R U' R',,(FR Slot),R U R' U' R U' R' U' L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L41_Front Left.png,AF2L41,L' U L y' L U L' U L U' L',L' U L B L' B L B2,L' U' L U L' U L f R f',(BR Slot),L U L' U' L U' L' y L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L42_Front Left.png,AF2L42,L' U L U' L U L' U L U' L',,,(BL Slot),L U L' U' L U' L' U L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L43_Front Left.png,AF2L43,R' F R U' R' F' R2 U R' U R U R',L' U L U L' U L U2 R U R',L' U L U R U' R' U' R U R',(FR Slot),R U' R' U' R U' 2R' F R U R' F' R
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L44_Front Left.png,AF2L44,F U' R U' R' U R' U' R F',L' U L y' L U' L' U' L U L',L' U L U L' U L U f R f',(BR Slot),F R' U R U' R U R' U F'
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L45_Front Left.png,AF2L45,L' U L2 U L' U L U L',L' U L U L' U L2 U L',,(BL Slot),L U' L' U' L U' 2L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L46_Front Left.png,AF2L46,L' U' L U y' R' U R U' R' U' R,L' U L y' U2 R' U2 R U' R' U R,L' U' L d R' U R U' R' U' R,(FR Slot),R' U R U R' U' R y U' L' U L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L47_Front Left.png,AF2L47,L' U' L R' U R U' R' U' R,L' U L U R' U2 R U' R' U R,,(BR Slot),R' U R U R' U' R L' U L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L48_Front Left.png,AF2L48,L' U' L d' R' U R U' R' U' R,L' U L y R' U2 R U' R' U R,L' U L y' L' U2 L U' L' U L,(BL Slot),R' U R U R' U' R d L' U L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L49_Front Left.png,AF2L49,L' U' L y' R' U2 R U R' U' R,L' U' L y L' U2 L U L' U' L,L' U L U L' U' L y' R' U2 R,(FR Slot),R' U R U' R' 2U' R y L' U L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L50_Front Left.png,AF2L50,L' U L U L' U' L R' U R,F U2 R U' R' f R f' F',L' U2 L R' U2 R U R' U' R,(BR Slot),R' U' R L' U L U' L' U' L
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L51_Front Left.png,AF2L51,F L U' L' U L U L' F',L' U L l U' L' U L U l',L' U' L y U2 R' U2 R U R' U' R,(BL Slot),F L U' L' U' L U L' F'
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L52_Front Left.png,AF2L52,F2 R' F2 D' R U' R' D R,L' U' L R U' R' U R U' R' U2 R U' R',L' U' L R' U2 R2 U R2 U R,(FR Slot),R' D' R U R' D 2F' R 2F'
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L53_Front Left.png,AF2L53,F U2 R U2 R2 U' R F',L' U L U2 r U2 R2 U' R2 U' r',,(BR Slot),F R' U 2R' 2U' R' 2U' F'
+Advanced Algorithms,Front Left,Both Pieces Trapped,AF2L54_Front Left.png,AF2L54,L' U L2 U2 L' U2 L U' L',L' U L2 U2 L' U' L U2 L',L' U' L F' U' L F' L' F L U L' F,(BL Slot),L U L' 2U' L 2U' 2L' U' L
+Advanced Algorithms,Back Left,Trapped Corner,AF2L1_Back Left.png,AF2L1,S' L' S,L U' L' y L U' L',y' L' U' L U R U' R',(FL Slot),S' L S
+Advanced Algorithms,Back Left,Trapped Corner,AF2L2_Back Left.png,AF2L2,L U' L' U' R U' R',l U' F2 U l',L U' L' R U2 R',(FR Slot),R U R' U L U L'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L3_Back Left.png,AF2L3,y R' U' R U' R U' R',L U' L' y' U2 L U' L',y R' U' R2 U2 R',(BR Slot),R U R' U R' U R y'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L4_Back Left.png,AF2L4,L U L' U2 F U F',B L' B' L U L' U2 L,L U L' y U2 L U L',(FL Slot),F U' F' 2U' L U' L'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L5_Back Left.png,AF2L5,L U L' U R U R',,,(FR Slot),R U' R' U' L U' L'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L6_Back Left.png,AF2L6,L U L' f R f',y U2 R' U R U R U R',L U L' y' L U L',(BR Slot),f R' f' L U' L'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L7_Back Left.png,AF2L7,U' f' r' D r S,y' U' L' U L R U' R',U' f' L' F L S,(FL Slot),S' r' D' r f U
+Advanced Algorithms,Back Left,Trapped Corner,AF2L8_Back Left.png,AF2L8,R D' R' U R U D R',y' U' L' U L y' L U2 L',y U' R' U R y' R U2 R',(FR Slot),R D' U' R' U' R D R'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L9_Back Left.png,AF2L9,U L' B' L B' L' B L,y' U' L' U L U2 L U' L',,(BR Slot),L' B' L B L' B L U'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L10_Back Left.png,AF2L10,f' L' f L' U' L,y' L' U' L F' U' F,y R' U' R y R' U' R,(FL Slot),L' U L f' L f
+Advanced Algorithms,Back Left,Trapped Corner,AF2L11_Back Left.png,AF2L11,L' B L B' R U2 R',y' L' U' L U' R' U' R,y R' U' R U' L' U' L,(FR Slot),R 2U' R' B L' B' L
+Advanced Algorithms,Back Left,Trapped Corner,AF2L12_Back Left.png,AF2L12,f' L' f U2 R' U' R,y R' U' R y' U2 R' U' R,y' L' U' L y U2 R' U' R,(BR Slot),R' U R 2U' f' L f
+Advanced Algorithms,Back Left,Trapped Corner,AF2L13_Back Left.png,AF2L13,U L U L2 U2 L,U L U2 L2 U L,,(FL Slot),L' 2U' 2L' U' L' U'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L14_Back Left.png,AF2L14,y' U L' U L R' U2 R,y U R' U R L' U2 L,U L U L' F' U F,(FR Slot),R' 2U' R L' U' L U' y
+Advanced Algorithms,Back Left,Trapped Corner,AF2L15_Back Left.png,AF2L15,U L R' U R L',U L R' U L' R,,(BR Slot),L R' U' R L' U'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L16_Back Left.png,AF2L16,L U2 L' U L' U' L,U2 L U' L' U2 L' U L,U2 L U' L' U L' U2 L,(FL Slot),L' U L U' L 2U' L'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L17_Back Left.png,AF2L17,U2 L U' L' y L' U2 L,U2 L U' L' y' R' U2 R,,(FR Slot),L' 2U' L y' L U L' 2U'
+Advanced Algorithms,Back Left,Trapped Corner,AF2L18_Back Left.png,AF2L18,U2 L U' L' R' U R,L U2 L' U' R' U' R,,(BR Slot),R' U' R L U L' 2U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L19_Back Left.png,AF2L19,U' L U L2 U' L,,,(FL Slot),L' U 2L' U' L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L20_Back Left.png,AF2L20,U' L U' L' R U' R',y U' R' U' L' U' L R,,(FR Slot),R U R' L U L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L21_Back Left.png,AF2L21,U' L U L' U2 R' U' R,U2 L U' L' R' U' R,,(BR Slot),R' U R 2U' L U' L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L22_Back Left.png,AF2L22,U r' U L U' x L' U' L,U L U' L' U S' L' S,y' U' L F' L' F U2 R U R',(FL Slot),L' U L x' U L' U' r U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L23_Back Left.png,AF2L23,U2 R2 D B2 D' R2,U2 R2 u R2 u' R2,U L U' L' U L U' L' R U2 R',(FR Slot),2R' D 2B' D' 2R' 2U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L24_Back Left.png,AF2L24,y' U' L F' L' F L U L',U' R' U' R2 u R u' R',,(BR Slot),L U' L' F' L F L' U y
+Advanced Algorithms,Back Left,Trapped Edge,AF2L25_Back Left.png,AF2L25,d' L' u' L' u L,U' L U' L' F' L F L',,(FL Slot),L' u' L u L d
+Advanced Algorithms,Back Left,Trapped Edge,AF2L26_Back Left.png,AF2L26,U2 R d' R' U R F',U2 L F' U' F L',,(FR Slot),F R' U' R d R' 2U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L27_Back Left.png,AF2L27,U' L U' L' R2 F R F' R,U' L U' L' U' f R' f',U' L U' L' d' R U' R',(BR Slot),R' F R' F' 2R' L U L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L28_Back Left.png,AF2L28,U' L U2 L' F U F',U L U L' d R U R',U f' L f L' U2 L,(FL Slot),F U' F' L 2U' L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L29_Back Left.png,AF2L29,U L U L' R U R',U' L U2 L' U' R U R',,(FR Slot),R U' R' L U' L' U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L30_Back Left.png,AF2L30,U L U L' U' f R f',U R u R u' R',,(BR Slot),f R' f' U L U' L' U'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L31_Back Left.png,AF2L31,L U' L2 U L,,,(FL Slot),L' U' 2L' U L'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L32_Back Left.png,AF2L32,F' L U' L' F,R u R' U R u' R',L U' L' d' L' U L,(FR Slot),F' L U L' F
+Advanced Algorithms,Back Left,Trapped Edge,AF2L33_Back Left.png,AF2L33,L U' L' U2 R' U R,R' L U2 L' R,,(BR Slot),R' U' R 2U' L U L'
+Advanced Algorithms,Back Left,Trapped Edge,AF2L34_Back Left.png,AF2L34,U' F' D' L' D F,,,(FL Slot),F' D' L D F U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L35_Back Left.png,AF2L35,U' L U L' U' F' U' F,U' L U L' y U' L' U' L,U' L U L' y' U' R' U' R,(FR Slot),F' U F U L U' L' U
+Advanced Algorithms,Back Left,Trapped Edge,AF2L36_Back Left.png,AF2L36,U' L U' L' y' L U2 L',,,(BR Slot),L 2U' L' y L U L' U
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L37_Back Left.png,AF2L37,L U L' y' U' R U' R',L U' L' d' L U L',L U L' F U2 F',(FL Slot),R U R' U y L U' L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L38_Back Left.png,AF2L38,L U L' U' R U2 R',R L U2 L' R',,(FR Slot),R 2U' R' U L U' L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L39_Back Left.png,AF2L39,L U L' U y R U' R',L U L' B' R B R',L U' L' U f R f',(BR Slot),R U R' y' U' L U' L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L40_Back Left.png,AF2L40,L U' L2 U' L U' L' U' L,,,(FL Slot),L' U L U L' U 2L' U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L41_Back Left.png,AF2L41,f' L f R U R2 F R F',L U' L' U' L U' L' d' L' U' L,L U' L' y' R' U R U R' U' R,(FR Slot),F R' F' 2R' U' R' f' L' f
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L42_Back Left.png,AF2L42,L U' L' U' R' U R U R' U' R,,,(BR Slot),R' U R U' R' U' R U L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L43_Back Left.png,AF2L43,L U' L' U L' U' L U' L' U L,,,(FL Slot),L' U' L U L' U L U' L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L44_Back Left.png,AF2L44,L U' L' y L' U' L U' L' U L,L U' L' y' R' U' R U' R' U R,L U L' U' L U' L' b' R' b,(FR Slot),L' U' L U L' U L y' L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L45_Back Left.png,AF2L45,L U' L' U' R' U' R U' R' U R,,,(BR Slot),R' U' R U R' U R U L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L46_Back Left.png,AF2L46,L U L' y U2 L U2 L' U' L U L',L U' L' U' L U L' U y L U' L',L U' L' U' L U L' F' L F L',(FL Slot),L U' L' U L 2U' L' 2U' y' L U' L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L47_Back Left.png,AF2L47,L U' L' U' L U L' R U' R',L U L' U R U2 R' U' R U R',y' L' U L U R' U2 R U' R' U R,(FR Slot),R U R' L U' L' U L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L48_Back Left.png,AF2L48,L U' L' U' L U L' y' L U2 L',L U L' y' L U2 L' U' L U L',L U' L' R' F R U R' U' F' R,(BR Slot),L 2U' L' y L U' L' U L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L49_Back Left.png,AF2L49,L U' L' y L U2 L' U L U' L',L U L' y U L U' L' U L U L',,(FL Slot),L U L' U' L 2U' L' y' L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L50_Back Left.png,AF2L50,L U' L' U' R U2 R' U R U' R',L U L' R U' R' U R U R',,(FR Slot),R U R' U' R 2U' R' U L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L51_Back Left.png,AF2L51,L U' L' y' U2 L U2 L' U L U' L',L U L' y' U' L U' L' U L U L',f' L f U2 R' U' R U R' U2 R,(BR Slot),L U L' U' L 2U' L' 2U' y L U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L52_Back Left.png,AF2L52,L U' L2 U2 L U2 L' U L,L U' L2 U2 L U L' U2 L,,(FL Slot),L' U' L 2U' L' 2U' 2L' U L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L53_Back Left.png,AF2L53,L U L' R U2 R' y' U R' U' R,L U L' R U2 R' U F' U' F,,(FR Slot),R' U R U' y R 2U' R' L U' L'
+Advanced Algorithms,Back Left,Both Pieces Trapped,AF2L54_Back Left.png,AF2L54,L U L' R U2 R2 U' R2 U' R',,,(BR Slot),R U 2R' U 2R' 2U' R' L U' L'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L1_Back Right.png,AF2L1,R' U' R U L U' L',L R' U' R L',M' f' E,(BL Slot),L U L' U' R' U R
+Advanced Algorithms,Back Right,Trapped Corner,AF2L2_Back Right.png,AF2L2,F R' U2 R F',R' U' R F U' F',R' U' R y' R U' R',(FL Slot),F R' 2U' R F'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L3_Back Right.png,AF2L3,R' U' R2 U2 R',R' U2 R2 U' R',,(FR Slot),R 2U' 2R' U R
+Advanced Algorithms,Back Right,Trapped Corner,AF2L4_Back Right.png,AF2L4,U2 R' U R U' L U L',,,(BL Slot),L U' L' U R' U' R 2U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L5_Back Right.png,AF2L5,U2 R' U R U2 F U F',y R U R' U L U L',U2 R' U R y' U2 R U R',(FL Slot),F U' F' 2U' R' U' R 2U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L6_Back Right.png,AF2L6,U2 R' U R U R U R',y R U R' F U F',f R f' R U R',(FR Slot),R U' R' U' R' U' R 2U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L7_Back Right.png,AF2L7,U' R' U R L U' L',U' R' U' R L U L',,(BL Slot),L U L' R' U' R U
+Advanced Algorithms,Back Right,Trapped Corner,AF2L8_Back Right.png,AF2L8,U' R' U R U2 F' r U r',U' R' U' R d' L U L',U' R' U R d' L U' L',(FL Slot),r U' r' F 2U' R' U' R U
+Advanced Algorithms,Back Right,Trapped Corner,AF2L9_Back Right.png,AF2L9,U R' U2 R U' R U R',U' R' U R U2 R U' R',,(FR Slot),R U' R' U R' 2U' R U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L10_Back Right.png,AF2L10,R' U' R f' L' f,R' U' R y R' U' R,B' R B R' L U' L',(BL Slot),f' L f R' U R
+Advanced Algorithms,Back Right,Trapped Corner,AF2L11_Back Right.png,AF2L11,R' U' R U' L' U' L,,,(FL Slot),L' U L U R' U R
+Advanced Algorithms,Back Right,Trapped Corner,AF2L12_Back Right.png,AF2L12,B' R B R' U2 R U' R',R' U' R U2 F' U' F,R' U' R y U2 L' U' L,(FR Slot),R U R' 2U' R B' R' B
+Advanced Algorithms,Back Right,Trapped Corner,AF2L13_Back Right.png,AF2L13,U R' U R y U2 R' U R,U R' U R y U R' U2 R,U R' U R y' U2 L' U L,(BL Slot),R' U' R 2U' y' R' U' R U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L14_Back Right.png,AF2L14,U R' U R L' U2 L,,,(FL Slot),L' 2U' L R' U' R U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L15_Back Right.png,AF2L15,U S R S',y U R L' U L R',y' U L R' U R L',(FR Slot),S R' S' U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L16_Back Right.png,AF2L16,R B R' B R B' R',l U R' U R U' l',y' U2 L U' L' U2 L' U L,(BL Slot),R B R' B' R B' R'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L17_Back Right.png,AF2L17,U L' D L U' L' U' D' L,y U2 R U' R' y R' U2 R,U2 f R f' U L' U' L,(FL Slot),L' D U L U L' D' L U'
+Advanced Algorithms,Back Right,Trapped Corner,AF2L18_Back Right.png,AF2L18,y U2 R U' R' L' U L,y' U2 L U' L' R' U R,,(FR Slot),L' U' L R U R' 2U' y'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L19_Back Right.png,AF2L19,R' U R L U' L' U L U L',y U' R U R2 U' R,y' U' L U L2 U' L,(BL Slot),L U' L' U' L U L' R' U' R
+Advanced Algorithms,Back Right,Trapped Edge,AF2L20_Back Right.png,AF2L20,U' R' U' R L' U' L,,,(FL Slot),L' U L R' U R U
+Advanced Algorithms,Back Right,Trapped Edge,AF2L21_Back Right.png,AF2L21,U' R S' U2 S R',U2 R U2 R2 U' R2 U R',U' R U R2 U' R2 U R',(FR Slot),R S' 2U' S R' U
+Advanced Algorithms,Back Right,Trapped Edge,AF2L22_Back Right.png,AF2L22,y U R' F R F' R' U' R,U' l U' R' U x U2 L U L',U' R B' R2 U R U2 R B R',(BL Slot),R' U R F R' F' R U' y'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L23_Back Right.png,AF2L23,U2 L2 D' B2 D L2,U2 r2 U' F2 U r2,U2 L2 u' L2 u L2,(FL Slot),2L' D' 2B' D 2L' 2U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L24_Back Right.png,AF2L24,U' R' U R U' S R S',y U R' F R F' U2 L' U' L,y U R' F R2 U' R' U2 F',(FR Slot),S R' S' U R' U' R U
+Advanced Algorithms,Back Right,Trapped Edge,AF2L25_Back Right.png,AF2L25,U' R' U' R U f' L' f,U' L' u' L' u L,U' R' U' R y U R' U' R,(BL Slot),f' L f U' R' U R U
+Advanced Algorithms,Back Right,Trapped Edge,AF2L26_Back Right.png,AF2L26,U2 f R' f' U L' U' L,U2 f U' R' U f',U2 F U' R' U R F',(FL Slot),L' U L U' f R f' 2U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L27_Back Right.png,AF2L27,U R' U2 R F' U' F,U' R' U' R d' L' U' L,U' f R' f' U' R U' R',(FR Slot),F' U F R' 2U' R U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L28_Back Right.png,AF2L28,U R' U R U f' L f,U R' U R d L' U L,U R' U R y R' U2 R,(BL Slot),f' L' f U' R' U' R U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L29_Back Right.png,AF2L29,U R' U R L' U L,,,(FL Slot),L' U' L R' U' R U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L30_Back Right.png,AF2L30,U F D R D' F',U R' U R U' F' U F,d R u R u' R',(FR Slot),F D R' D' F' U'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L31_Back Right.png,AF2L31,L R' U2 R L',,,(BL Slot),L R' 2U' R L'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L32_Back Right.png,AF2L32,F R' U R F',R' U R y' U R U' R',R' U R y U L U' L',(FL Slot),F R' U' R F'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L33_Back Right.png,AF2L33,R' U R2 U' R',R' U2 R2 U2 R',R2 F R2 F',(FR Slot),R U 2R' U' R
+Advanced Algorithms,Back Right,Trapped Edge,AF2L34_Back Right.png,AF2L34,y U' F' R' U' R F,,,(BL Slot),F' R' U R F U y'
+Advanced Algorithms,Back Right,Trapped Edge,AF2L35_Back Right.png,AF2L35,U' f R f' U' L' U' L,y U2 L U' F' U F L',y' U2 L F' U' F L',(FL Slot),L' U L U f R' f' U
+Advanced Algorithms,Back Right,Trapped Edge,AF2L36_Back Right.png,AF2L36,U R' U2 R y' R' U' R,U R' U2 R y L' U' L,,(FR Slot),R' U R y R' 2U' R U'
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L37_Back Right.png,AF2L37,y R U' R' U' f R f',R' U R d' R' U' R,R' U' R l U L' U' M',(BL Slot),f R' f' U R U R' y'
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L38_Back Right.png,AF2L38,R' U' R U2 L' U L,R' L' U2 L R,,(FL Slot),L' U' L 2U' R' U R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L39_Back Right.png,AF2L39,F' R' U2 R U' F,R' U' R U y L' U L,R' U R d R' U' R,(FR Slot),F' U R' 2U' R F
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L40_Back Right.png,AF2L40,R' U R U L U L' U L U' L',,,(BL Slot),L U L' U' L U' L' U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L41_Back Right.png,AF2L41,R' U R F R' F R F2,R' U R y' R U R' U R U' R',,(FL Slot),2F' R' F' R F' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L42_Back Right.png,AF2L42,R' U R U' R U R' U R U' R',,,(FR Slot),R U R' U' R U' R' U R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L43_Back Right.png,AF2L43,R' U R U L U' L' U' L U L',,,(BL Slot),L U' L' U L U L' U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L44_Back Right.png,AF2L44,R' U R U' L' U L d' L U L',R' U R y L U' L' U' L U L',R' U R y' R U' R' U' R U R',(FL Slot),L U' L' d L' U' L U R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L45_Back Right.png,AF2L45,R' U R U R' U R2 U R',R' U R2 U R' U R U R',,(FR Slot),R U' 2R' U' R U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L46_Back Right.png,AF2L46,R' U' R y U R' U R U' R' U' R,R' U R y U2 R' U2 R U' R' U R,,(BL Slot),R' U R U R' U' R U' y' R' U R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L47_Back Right.png,AF2L47,R' U R U L' U2 L U' L' U L,R' U' R L' U L U' L' U' L,y R U2 R' L U2 L' U' L U L',(FL Slot),L' U' L U L' 2U' L U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L48_Back Right.png,AF2L48,R' U2 R y' R' U R U' R' U' R,R' U R y' R' U2 R U' R' U R,R' U R U' R' U2 L F' R2 U' R2 U F L' R,(FR Slot),R' U R U R' U' R y R' 2U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L49_Back Right.png,AF2L49,R' U R U R' U' R y R' U2 R,R' U' R y R' U2 R U R' U' R,,(BL Slot),R' 2U' R y' R' U R U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L50_Back Right.png,AF2L50,R' U' R U' L' U2 L U L' U' L,R' U R U R' U' R L' U L,,(FL Slot),L' U L U' L' 2U' L U R' U R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L51_Back Right.png,AF2L51,R' U' R y' U2 R' U2 R U R' U' R,R' U R L F' R' F R F L',R' U' R U d R' U2 R U R' U' R,(FR Slot),R' U R U' R' 2U' R 2U' y R' U R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L52_Back Right.png,AF2L52,R' U R U2 L U2 L' U2 L U' L',,,(BL Slot),L U L' 2U' L 2U' L' 2U' R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L53_Back Right.png,AF2L53,R' U R y' U R U2 R' U2 R U' R',R' U' R L' U2 L y U' L U L',R' U' R L' U2 L U' F U F',(FL Slot),R U R' 2U' R 2U' R' U' y R' U' R
+Advanced Algorithms,Back Right,Both Pieces Trapped,AF2L54_Back Right.png,AF2L54,R' U R2 U2 R' U R' F R F',R' U R2 U2 R' U2 R U' R',R' U' R U2 R' U2 R2 U R',(FR Slot),F R' F' R U' R 2U' 2R' U' R
+Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,,(Target Slot),Set Up Algorithm
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot),F 2U' R U 2R' F' R
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot),R' U R F R' F' R
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot),F R' U' R F'
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L4_Front Right.png,UF2L4,R' F U' F' R,,,(BR Slot),R' F U F' R
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L5_Front Right.png,UF2L5,R' F U F' R,,,(FL Slot),R' F U' F' R
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L6_Front Right.png,UF2L6,F R' U' R F',,,(BR Slot),F R' U R F'
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L7_Front Right.png,UF2L7,U R' U' R2 U R2' U' R,,,(BR Slot),R' U 2R U' 2R' U R U'
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L8_Front Right.png,UF2L8,U' R U R2' U' R2 U R',,,(FR Slot),R U' 2R' U 2R U' R' U
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L9_Front Right.png,UF2L9,R' u' R' u R,,,(FR Slot),R' u' R u R
+Useful Cases,Front Right,Edge insertions,UF2L10_Front Right.png,UF2L10,F' R U R' U' R' F R,,,(FR Slot),R' F' R U R U' R' F
+Useful Cases,Front Right,Edge insertions,UF2L11_Front Right.png,UF2L11,R' F' R U R U' R' F,,,(FR Slot),F' R U R' U' R' F R
+Useful Cases,Front Right,"Corner solved, edge in slot",UF2L12_Front Right.png,UF2L12,R2 U' R2' U R2,,,(FR Slot),2R' U' 2R U 2R'
+Useful Cases,Front Right,"Corner solved, edge in slot",UF2L13_Front Right.png,UF2L13,R2 U R2 U' R2',,,(BR Slot),2R U 2R' U' 2R'
+Useful Cases,Front Right,Miscellaneous,UF2L14_Front Right.png,UF2L14,F R U' R' U' F',,,(FL Slot),F U R U R' F'
+Useful Cases,Front Right,Miscellaneous,UF2L15_Front Right.png,UF2L15,R2 U' R' U R2,Only if the BR Slot is empty,,(FR Slot),2R' U' R U 2R'
+Useful Cases,Front Right,Miscellaneous,UF2L16_Front Right.png,UF2L16,R2 U R U' R2',Only if the FR Slot is empty,,(BR Slot),2R U R' U' 2R'
+Useful Cases,Front Right,Miscellaneous,UF2L17_Front Right.png,UF2L17,R' D' F D R,R' u' R u R,,(FL Slot),R' D' F' D R
+Useful Cases,Front Right,Miscellaneous,UF2L18_Front Right.png,UF2L18,r U' R' U R U r',,,(FR Slot),r U' R' U' R U r'
+Useful Cases,Front Right,Miscellaneous,UF2L19_Front Right.png,UF2L19,M U r U' r' U' M',,,(FR Slot),M U r U r' U' M'
+Useful Cases,Front Right,Miscellaneous,UF2L20_Front Right.png,UF2L20,R' U R U' R U R' ,Only if the BR Slot is empty,,(FR Slot),R U' R' U R' U' R
+Useful Cases,Back Right,Miscellaneous,UF2L21_Back Right.png,UF2L21,R U' R' U R' U' R ,Only if the FR Slot is empty,,(BR Slot),R' U R U' R U R'
+Useful Cases,Front Right,Miscellaneous,UF2L22_Front Right.png,UF2L22,R U R' L' U' L,,,(FL Slot),L' U L R U' R'
+Useful Cases,Front Left,Miscellaneous,UF2L23_Front Left.png,UF2L23,L' U' L R U R',,,(FR Slot),R U' R' L' U L
+Useful Cases,Front Right,Miscellaneous,UF2L24_Front Right.png,UF2L24,R U R' r' U' R U M',Only if the FR Slot is empty,,(BR Slot),M U' R' U r R U' R'
+Useful Cases,Front Right,Miscellaneous,UF2L25_Front Right.png,UF2L25,R U R' f R f',Only if the FR Slot is empty,,(BR Slot),f R' f' R U' R'
+Useful Cases,Front Left,KeyHole,UF2L26_Front Left.png,UF2L26,D R U' R' D',Only if the FR Slot is empty,,(FL Slot),D R U R' D'
+Useful Cases,Front Left,KeyHole,UF2L27_Front Left.png,UF2L27,D' L' U L D,Only if the FR Slot is empty,,(FL Slot),D' L' U' L D
