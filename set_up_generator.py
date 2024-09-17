@@ -30,6 +30,9 @@ def process_text(text):
     # Unir los elementos procesados con espacio
     processed_text = ' '.join(processed_elements)
     
+    # Reemplazar las secuencias "2U'" y "2U" por "U2"
+    processed_text = processed_text.replace("2U'", "U2").replace("2U", "U2")
+
     return processed_text
 
 # Procesar cada fila en la columna 6 (índice 5) y escribir en la columna 10 (índice 9)

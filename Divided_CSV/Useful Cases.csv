@@ -1,6 +1,6 @@
 Tipo,Slot,Grupo,Ruta,Nombre,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,Target Slot,Set Up
 Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,,(Target Slot),Set Up Algorithm
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot),F 2U' R U 2R' F' R
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot),F U2 R U 2R' F' R
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot),R' U R F R' F' R
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot),F R' U' R F'
 Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L4_Front Right.png,UF2L4,R' F U' F' R,,,(BR Slot),R' F U F' R
