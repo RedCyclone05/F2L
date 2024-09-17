@@ -30,8 +30,25 @@ def process_text(text):
     # Unir los elementos procesados con espacio
     processed_text = ' '.join(processed_elements)
     
-    # Reemplazar las secuencias "2U'" y "2U" por "U2"
+    # Reemplazar las secuencias "2?'" y "2?" por "?2"
     processed_text = processed_text.replace("2U'", "U2").replace("2U", "U2")
+    processed_text = processed_text.replace("2D'", "D2").replace("2D", "D2")
+    processed_text = processed_text.replace("2R'", "R2").replace("2R", "R2")
+    processed_text = processed_text.replace("2L'", "L2").replace("2L", "L2")
+    processed_text = processed_text.replace("2F'", "F2").replace("2F", "F2")
+    processed_text = processed_text.replace("2B'", "B2").replace("2B", "B2")
+    processed_text = processed_text.replace("2M'", "M2").replace("2M", "M2")
+    processed_text = processed_text.replace("2S'", "S2").replace("2S", "S2")
+    processed_text = processed_text.replace("2E'", "E2").replace("2E", "E2")
+    processed_text = processed_text.replace("2y'", "y2").replace("2y", "y2")
+    processed_text = processed_text.replace("2x'", "x2").replace("2x", "x2")
+    processed_text = processed_text.replace("2z'", "z2").replace("2z", "z2")
+    processed_text = processed_text.replace("2u'", "u2").replace("2u", "u2")
+    processed_text = processed_text.replace("2d'", "d2").replace("2d", "d2")
+    processed_text = processed_text.replace("2r'", "r2").replace("2r", "r2")
+    processed_text = processed_text.replace("2l'", "l2").replace("2l", "l2")
+    processed_text = processed_text.replace("2f'", "f2").replace("2f", "f2")
+    processed_text = processed_text.replace("2b'", "b2").replace("2b", "b2")
 
     return processed_text
 
