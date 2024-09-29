@@ -1,29 +1,29 @@
 Tipo,Slot,Grupo,Ruta,Nombre,Main Algorithm,Alternative Algorithm,Alternative Algorithm 2,Target Slot,Set Up
 Useful Cases,Working Slot,Group,Useful Cases Name or _Working Slot.png,Useful Cases Name or ,Main Algorithm,Alternative algorithm or warnings,,(Target Slot),Set Up Algorithm
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot),F U2 R U R2 F' R
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot),R' U R F R' F' R
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot),F R' U' R F'
-Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L4_Front Right.png,UF2L4,R' F U' F' R,,,(BR Slot),R' F U F' R
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L5_Front Right.png,UF2L5,R' F U F' R,,,(FL Slot),R' F U' F' R
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L6_Front Right.png,UF2L6,F R' U' R F',,,(BR Slot),F R' U R F'
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L7_Front Right.png,UF2L7,U R' U' R2 U R2' U' R,,,(BR Slot),R' U R2 U' R2 U R U'
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L8_Front Right.png,UF2L8,U' R U R2' U' R2 U R',,,(FR Slot),R U' R2 U R2 U' R' U
-Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L9_Front Right.png,UF2L9,R' u' R' u R,,,(FR Slot),R' u' R u R
-Useful Cases,Front Right,Edge insertions,UF2L10_Front Right.png,UF2L10,F' R U R' U' R' F R,,,(FR Slot),R' F' R U R U' R' F
-Useful Cases,Front Right,Edge insertions,UF2L11_Front Right.png,UF2L11,R' F' R U R U' R' F,,,(FR Slot),F' R U R' U' R' F R
-Useful Cases,Front Right,"Corner solved, edge in slot",UF2L12_Front Right.png,UF2L12,R2 U' R2' U R2,,,(FR Slot),R2 U' R2 U R2
 Useful Cases,Front Right,"Corner solved, edge in slot",UF2L13_Front Right.png,UF2L13,R2 U R2 U' R2',,,(BR Slot),R2 U R2 U' R2
-Useful Cases,Front Right,Miscellaneous,UF2L14_Front Right.png,UF2L14,F R U' R' U' F',,,(FL Slot),F U R U R' F'
-Useful Cases,Front Right,Miscellaneous,UF2L15_Front Right.png,UF2L15,R2 U' R' U R2,Only if the BR Slot is empty,,(FR Slot),R2 U' R U R2
-Useful Cases,Front Right,Miscellaneous,UF2L16_Front Right.png,UF2L16,R2 U R U' R2',Only if the FR Slot is empty,,(BR Slot),R2 U R' U' R2
-Useful Cases,Front Right,Miscellaneous,UF2L17_Front Right.png,UF2L17,R' D' F D R,R' u' R u R,,(FL Slot),R' D' F' D R
-Useful Cases,Front Right,Miscellaneous,UF2L18_Front Right.png,UF2L18,r U' R' U R U r',,,(FR Slot),r U' R' U' R U r'
-Useful Cases,Front Right,Miscellaneous,UF2L19_Front Right.png,UF2L19,M U r U' r' U' M',,,(FR Slot),M U r U r' U' M'
-Useful Cases,Front Right,Miscellaneous,UF2L20_Front Right.png,UF2L20,R' U R U' R U R' ,Only if the BR Slot is empty,,(FR Slot),R U' R' U R' U' R
-Useful Cases,Back Right,Miscellaneous,UF2L21_Back Right.png,UF2L21,R U' R' U R' U' R ,Only if the FR Slot is empty,,(BR Slot),R' U R U' R U R'
-Useful Cases,Front Right,Miscellaneous,UF2L22_Front Right.png,UF2L22,R U R' L' U' L,,,(FL Slot),L' U L R U' R'
-Useful Cases,Front Left,Miscellaneous,UF2L23_Front Left.png,UF2L23,L' U' L R U R',,,(FR Slot),R U' R' L' U L
-Useful Cases,Front Right,Miscellaneous,UF2L24_Front Right.png,UF2L24,R U R' r' U' R U M',Only if the FR Slot is empty,,(BR Slot),M U' R' U r R U' R'
 Useful Cases,Front Right,Miscellaneous,UF2L25_Front Right.png,UF2L25,R U R' f R f',Only if the FR Slot is empty,,(BR Slot),f R' f' R U' R'
+Useful Cases,Front Right,Miscellaneous,UF2L24_Front Right.png,UF2L24,R U R' r' U' R U M',Only if the FR Slot is empty,,(BR Slot),M U' R' U r R U' R'
+Useful Cases,Front Right,Miscellaneous,UF2L22_Front Right.png,UF2L22,R U R' L' U' L,,,(FL Slot),L' U L R U' R'
+Useful Cases,Front Right,Miscellaneous,UF2L20_Front Right.png,UF2L20,R' U R U' R U R' ,Only if the BR Slot is empty,,(FR Slot),R U' R' U R' U' R
+Useful Cases,Front Right,Miscellaneous,UF2L19_Front Right.png,UF2L19,M U r U' r' U' M',,,(FR Slot),M U r U r' U' M'
+Useful Cases,Front Right,Miscellaneous,UF2L18_Front Right.png,UF2L18,r U' R' U R U r',,,(FR Slot),r U' R' U' R U r'
+Useful Cases,Front Right,Miscellaneous,UF2L17_Front Right.png,UF2L17,R' D' F D R,R' u' R u R,,(FL Slot),R' D' F' D R
+Useful Cases,Front Right,Miscellaneous,UF2L16_Front Right.png,UF2L16,R2 U R U' R2',Only if the FR Slot is empty,,(BR Slot),R2 U R' U' R2
+Useful Cases,Front Right,Miscellaneous,UF2L15_Front Right.png,UF2L15,R2 U' R' U R2,Only if the BR Slot is empty,,(FR Slot),R2 U' R U R2
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L1_Front Right.png,UF2L1,R' F R2 U' R' U2 F',,,(FL Slot),F U2 R U R2 F' R
+Useful Cases,Front Right,Miscellaneous,UF2L14_Front Right.png,UF2L14,F R U' R' U' F',,,(FL Slot),F U R U R' F'
+Useful Cases,Front Right,"Corner solved, edge in slot",UF2L12_Front Right.png,UF2L12,R2 U' R2' U R2,,,(FR Slot),R2 U' R2 U R2
+Useful Cases,Front Right,Edge insertions,UF2L11_Front Right.png,UF2L11,R' F' R U R U' R' F,,,(FR Slot),F' R U R' U' R' F R
+Useful Cases,Front Right,Edge insertions,UF2L10_Front Right.png,UF2L10,F' R U R' U' R' F R,,,(FR Slot),R' F' R U R U' R' F
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L9_Front Right.png,UF2L9,R' u' R' u R,,,(FR Slot),R' u' R u R
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L8_Front Right.png,UF2L8,U' R U R2' U' R2 U R',,,(FR Slot),R U' R2 U R2 U' R' U
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L7_Front Right.png,UF2L7,U R' U' R2 U R2' U' R,,,(BR Slot),R' U R2 U' R2 U R U'
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L6_Front Right.png,UF2L6,F R' U' R F',,,(BR Slot),F R' U R F'
+Useful Cases,Front Right,"Edge in different slot, corner not oriented",UF2L5_Front Right.png,UF2L5,R' F U F' R,,,(FL Slot),R' F U' F' R
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L4_Front Right.png,UF2L4,R' F U' F' R,,,(BR Slot),R' F U F' R
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L3_Front Right.png,UF2L3,F R' U R F',,,(FL Slot),F R' U' R F'
+Useful Cases,Front Right,"Edge in different slot, corner oriented",UF2L2_Front Right.png,UF2L2,R' F R F' R' U' R,,,(BR Slot),R' U R F R' F' R
+Useful Cases,Front Left,Miscellaneous,UF2L23_Front Left.png,UF2L23,L' U' L R U R',,,(FR Slot),R U' R' L' U L
 Useful Cases,Front Left,KeyHole,UF2L26_Front Left.png,UF2L26,D R U' R' D',Only if the FR Slot is empty,,(FL Slot),D R U R' D'
 Useful Cases,Front Left,KeyHole,UF2L27_Front Left.png,UF2L27,D' L' U L D,Only if the FR Slot is empty,,(FL Slot),D' L' U' L D
+Useful Cases,Back Right,Miscellaneous,UF2L21_Back Right.png,UF2L21,R U' R' U R' U' R ,Only if the FR Slot is empty,,(BR Slot),R' U R U' R U R'

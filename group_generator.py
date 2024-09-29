@@ -13,10 +13,19 @@ os.makedirs(output_dir, exist_ok=True)
 # Obtener la primera columna (grupos) y eliminar duplicados
 groups = df.iloc[:, 0].unique()
 
+# Definir el orden deseado para la segunda columna
+order = ["Working Slot","Front Right", "Front Left", "Back Right", "Back Left"]
+
+# Asegurar que los valores en la segunda columna sigan el orden definido
+df.iloc[:, 1] = pd.Categorical(df.iloc[:, 1], categories=order, ordered=True)
+
 # Dividir el CSV en archivos por grupo
 for group in groups:
     # Filtrar los datos del grupo
     group_df = df[df.iloc[:, 0] == group]
+
+    # Ordenar los datos según la segunda columna en orden descendente
+    group_df = group_df.sort_values(by=df.columns[1], ascending=False)
     
     # Guardar el archivo CSV para el grupo
     output_file = os.path.join(output_dir, f'{group}.csv')
