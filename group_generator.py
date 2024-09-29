@@ -22,13 +22,17 @@ df.iloc[:, 1] = pd.Categorical(df.iloc[:, 1], categories=order, ordered=True)
 # Dividir el CSV en archivos por grupo
 for group in groups:
     # Filtrar los datos del grupo
-    group_df = df[df.iloc[:, 0] == group]
+    group_df = df[df.iloc[:, 0] == group].copy()  # Usa .copy() para evitar SettingWithCopyWarning
 
-    # Ordenar los datos según la segunda columna en orden descendente
-    group_df = group_df.sort_values(by=df.columns[1], ascending=False)
+    # Agregar una columna de índice original
+    group_df['original_index'] = group_df.index
+
+    # Ordenar los datos primero por la segunda columna y luego por el índice original
+    group_df = group_df.sort_values(by=[df.columns[1], 'original_index'], ascending=[False, True])
     
     # Guardar el archivo CSV para el grupo
     output_file = os.path.join(output_dir, f'{group}.csv')
+    group_df.drop(columns=['original_index'], inplace=True)  # Eliminar la columna de índice original
     group_df.to_csv(output_file, index=False)
 
 print("Archivos CSV divididos y guardados exitosamente.")
