@@ -6,10 +6,11 @@ Este proyecto está diseñado para procesar imágenes relacionadas con el métod
 
 1. **Descarga de Imágenes**: Descarga imágenes desde enlaces generados a partir de un archivo CSV, llamado `DataBase.csv`.
 2. **Procesamiento de Imágenes**: Aplica un filtro de relleno a las imágenes para resaltar áreas específicas.
-3. **Generación de PDF**: Crea un documento PDF que incluye las imágenes procesadas, los algoritmos provenientes de un archivo CSV llamado `DataBase.csv`, con un formato estético y organizado.
-4. **Generar el algoritmo Set Up**: Añade una nueva columna al archivo CSV llamado `DataBase.csv` la cual contiene el algoritmo Set Up, cuya función es plantear el caso a resolver.
-5. **Dividir la base de datos por Grupo**: Divide la base de datos de un archivo CSV llamado `DataBase.csv` en  nuevas bases de datos de acuerdo al grupo que pertenecen.
-6. **Genera Decks de Anki**: Genera un Deck de Anki por cada grupo seleccionado, le pregunta al usuario, el nombre del Deck y le pregunta que archivo CSV se necesita usar.
+3. **Generar el algoritmo Set Up**: Añade una nueva columna al archivo CSV llamado `DataBase.csv` la cual contiene el algoritmo Set Up, cuya función es plantear el caso a resolver.
+4. **Generar los Triggers**: Modifica el archivo CSV llamado `DataBase.csv`, para ello analiza todas las columnas en la cual haya presente un algoritmo y lo divide en pequeños grupos de movimientos llamados Triggers. 
+5. **Generación de PDF**: Crea un documento PDF que incluye las imágenes procesadas, los algoritmos provenientes de un archivo CSV llamado `DataBase.csv`, con un formato estético y organizado.
+6. **Dividir la base de datos por Grupo**: Divide la base de datos de un archivo CSV llamado `DataBase.csv` en  nuevas bases de datos de acuerdo al grupo que pertenecen. Además modifica el orden, para que el Slot Back Right aparezca antes que el Slot Back Left, esto por facilidad al aprendizaje.
+7. **Genera Decks de Anki**: Genera un Deck de Anki por cada grupo seleccionado, le pregunta al usuario, el nombre del Deck y le pregunta que archivo CSV se necesita usar.
 
 ## Estructura del Proyecto
 
@@ -19,13 +20,16 @@ El proyecto consta de tres scripts principales:
 
 2. **Procesar Imágenes** (`process_images.py`): Abre las imágenes descargadas, aplica un filtro de relleno y guarda las imágenes procesadas en una carpeta específica.
 
-3. **Generar PDF** (`generate_pdf.py`): Lee un archivo CSV con información sobre las imágenes y genera un documento PDF que incluye las imágenes procesadas y detalles adicionales.
+3. **Generar el algoritmo SetUp para cada caso** (`set_up_generator.py`): Lee un archivo CSV con informacion sobre cada caso, luego genera un nuevo algoritmo el cual sirve para plantear el caso especifico y luego se le añade a la columna 10 del CSV original.
 
-4. **Generar el algoritmo SetUp para cada caso** (`set_up_generator.py`): Lee un archivo CSV con informacion sobre cada caso, luego genera un nuevo algoritmo el cual sirve para plantear el caso especifico y luego se le añade a la columna 10 del CSV original.
+4. **Generar los Triggers**(`trigger_generator.py`): Modifica el archivo CSV, para ello analiza todas las columnas en la cual haya presente un algoritmo y lo divide en pequeños grupos de movimientos llamados Triggers. 
 
-5. **Dividir la base de datos por Grupo** (`group_generator.py`): Lee un archivo CSV con información de cada caso y lo divide en nuevos archivos CSV separados por Grupo de casos, guarda todos estos archivos en una carpeta en especifico.
+5. **Generar PDF** (`generate_pdf.py`): Lee un archivo CSV con información sobre las imágenes y genera un documento PDF que incluye las imágenes procesadas y detalles adicionales.
 
-6. **Generar Deck de Anki** (`anki_generator.py`): Pregunta al usuario que archivo CSV quiere que lea para generar el Deck de Anki, genera un Deck de Anki con los casos elegidos. En la parte frontal plantea el algoritmo para colocar el caso deseado, en la parte de atras se muestra la imagen del caso y debajo de ella se muestran los algoritmos para resolver dicho caso. 
+
+6. **Dividir la base de datos por Grupo** (`group_generator.py`): Lee un archivo CSV con información de cada caso y lo divide en nuevos archivos CSV separados por Grupo de casos, guarda todos estos archivos en una carpeta en especifico. Además modifica el orden de los slots, de modo que el BR aparezca antes que el BL.
+
+7. **Generar Deck de Anki** (`anki_generator.py`): Pregunta al usuario que archivo CSV quiere que lea para generar el Deck de Anki, genera un Deck de Anki con los casos elegidos. En la parte frontal plantea el algoritmo para colocar el caso deseado, en la parte de atras se muestra la imagen del caso y debajo de ella se muestran los algoritmos para resolver dicho caso. 
 
 ## Requisitos
 

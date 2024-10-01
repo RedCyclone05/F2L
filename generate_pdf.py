@@ -35,9 +35,14 @@ subsubsub_style = ParagraphStyle(name='Heading4', fontName='Montserrat-Medium', 
 author_style = ParagraphStyle(name='CenteredText', fontName='Montserrat', fontSize=10, alignment=1)
 text_style = ParagraphStyle(name='CenteredText', fontName='Montserrat', fontSize=12, leading=16)
 text_medium_style = ParagraphStyle(name='CenteredText', fontName='Montserrat-Medium', fontSize=12, leading=12)
+text_set_up_style = ParagraphStyle(name='SetUpStyle', fontName ='Montserrat', fontSize=10, alignment=2)  # 0=izquierda, 1=centro, 2=derecha
 
 # Función para crear una tabla de 2x1
-def create_2x1_table(image_path, name_lines, text_lines):
+def create_2x1_table(image_path, set_up_lines, name_lines, text_lines):
+
+    # Crear el párrafo para la línea de Set Up
+    set_up_paragraph = Paragraph('<font name="Montserrat" size="10">{}</font>'.format('<br/>'.join(set_up_lines)), text_set_up_style)
+    
     # Crear el párrafo para el nombre
     name_paragraph = Paragraph('<font name="Montserrat-Medium" size="12">{}</font>'.format('<br/>'.join(name_lines)), text_medium_style)
     
@@ -45,8 +50,9 @@ def create_2x1_table(image_path, name_lines, text_lines):
     text_paragraphs = [Paragraph('<font name="Montserrat" size="12">{}</font>'.format(line), text_style) for line in text_lines]
     
     # Combinar los párrafos del nombre, un Spacer, y las líneas de texto
-    content = [name_paragraph, Spacer(1, 6)] + text_paragraphs  # Agregar un Spacer después del nombre
-    
+    content = [set_up_paragraph, Spacer(1, -7), name_paragraph, Spacer(1, 6)] + text_paragraphs  # Agregar un Spacer después del nombre
+    # El espacio negativo en Spacer(1, -5) es para que set_up_paragraph y name_oaragraph esten aproximadamente a la misma altura
+
     data = [
         [Image(image_path, width=0.984*inch, height=0.984*inch),
          content]  # Insertar el contenido con Spacer en la tabla
@@ -95,7 +101,9 @@ with open(csv_file, mode='r') as file:
             subsubsubtema = row[2]
             image_filename = row[3]  # La cuarta columna contiene el nombre de la imagen
             name_lines = row[4:5]  # La quinta columna tiene el nombre
-            text_lines = row[5:]  # Las celdas restantes se consideran líneas de texto
+            text_lines = row[5:9]  # Las celdas de la 6 a la 9 se consideran líneas de texto
+            set_up_lines = row[9:10] # La decima columna tiene el Set Up
+
 
             # Construir la ruta completa de la imagen
             image_path = os.path.abspath(os.path.join('processed_downloaded_images', image_filename))
@@ -119,7 +127,8 @@ with open(csv_file, mode='r') as file:
                 last_subsubsubtema = subsubsubtema
 
             # Crear y agregar la tabla de 2x1 para cada fila del CSV
-            table = create_2x1_table(image_path, name_lines, text_lines)
+            table = create_2x1_table(image_path, set_up_lines, name_lines, text_lines)
+
             content.append(table)
 
             # Saltar un espacio pequeño
