@@ -47,16 +47,18 @@ El proyecto consta de tres scripts principales:
 1. **Ejecutar Scripts**:
    - **Descargar Imágenes**: Ejecuta `download_images.py` para descargar las imágenes necesarias, se guardaran en la carpeta `preliminary_downloaded_images`.
    - **Procesar Imágenes**: Ejecuta `process_images.py` para procesar las imágenes descargadas ubicadas en la carpeta `preliminary_downloaded_images`, conforme las imagenes se procesan se guardaran en `processed_downloaded_images`. Una vez se ejecute el codigo, el usuario debera clickear en las regiones que desee ocultar, además, luego del procesamiento automatico, el codigo permite al usuario indicar que imagen en especifico desea procesar.
-   - **Generar PDF**: Ejecuta `generate_pdf.py` para generar el documento PDF final.
    - **Generar algoritmo Set UP**: Ejecuta `set_up_generator.py` para añadir al archivo CSV `DataBase.csv` una columna que contenga un algoritmo Set Up para cada caso.
-   - **Dividir la base de datos por Grupo** Ejecuta `group_generator.py` para dividir el archivo CSV `DataBase.csv` en nuevos archivos CSV separados por Grupo de casos, guarda todos estos archivos en la carpeta `Divided_CSV`.
+   - **Generar Triggers**: Ejecuta `trigger_generator.py` para modificar el archivo CSV `DataBase.csv` para que los algoritmos se dividan en Triggers.
+   - **Generar PDF**: Ejecuta `generate_pdf.py` para generar el documento PDF final.
+   - **Dividir la base de datos por Grupo** Ejecuta `group_generator.py` para dividir el archivo CSV `DataBase.csv` en nuevos archivos CSV separados por Grupo de casos, guarda todos estos archivos en la carpeta `Divided_CSV`. Además pone el slot BR antes que el slot BL
    - **Generar Deck de Anki** Ejecuta `anki_generator.py` para generar automaticamente un Deck de Anki. El script pregunta al usuario el nombre del Deck y que archivo CSV quiere que lea para generar el Deck de Anki, genera un Deck de Anki con los casos elegidos. En la parte frontal plantea el algoritmo para colocar el caso deseado, en la parte de atras se muestra la imagen del caso y debajo de ella se muestran los algoritmos para resolver dicho caso. 
 
    ```bash
    python download_images.py
    python process_images.py
-   python generate_pdf.py
    python set_up_generator.py
+   python trigger_generator.py
+   python generate_pdf.py
    python group_generator.py
    python anki_generator.py
     ```
