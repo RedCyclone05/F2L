@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto está diseñado para procesar imágenes relacionadas con el método F2L (First Two Layers) del cubo Rubik y generar un documento PDF con las imágenes y detalles relevantes. Ademas se genera un Deck de Flashcards de Anki por cada grupo. El proceso incluye:
+Este proyecto está diseñado para procesar imágenes relacionadas con el paso F2L (First Two Layers) del metodo CFOP del cubo Rubik y generar un documento PDF con las imágenes y detalles relevantes. Ademas se genera un Deck de Flashcards de Anki por cada grupo. El proceso incluye:
 
 1. **Descarga de Imágenes**: Descarga imágenes desde enlaces generados a partir de un archivo CSV, llamado `DataBase.csv`.
 2. **Procesamiento de Imágenes**: Aplica un filtro de relleno a las imágenes para resaltar áreas específicas.
