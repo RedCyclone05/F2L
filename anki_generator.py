@@ -30,7 +30,7 @@ deck_name_sanitized = deck_name.replace(' ', '_')
 model_id = 1607392319
 model = genanki.Model(
   model_id,
-  'Simple Model',
+  'Simple ModelF2L',
   fields=[
     {'name': 'Front'},      # Campo 1
     {'name': 'Back'},       # Campo 2 (imagen)
