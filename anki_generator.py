@@ -104,11 +104,14 @@ with open(input_csv, newline='', encoding='utf-8') as csvfile:
         field2 = row[6]  # Columna 7
         field3 = row[7]  # Columna 8
         field4 = row[8]  # Columna 9
+
+        tag = row[1].replace(' ', '_')  # Columna 2 (Tag), reemplazar espacios por guiones bajos
         
         # Crear una nueva nota (tarjeta) con los 6 campos
         note = genanki.Note(
             model=model,
-            fields=[front, image_tag, field1, field2, field3, field4]
+            fields=[front, image_tag, field1, field2, field3, field4],
+            tags=[tag]  # Añadir el tag de la columna 2
         )
         
         # Añadir la nota al deck
