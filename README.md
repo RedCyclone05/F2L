@@ -14,7 +14,7 @@ Este proyecto está diseñado para procesar imágenes relacionadas con el paso F
 
 ## Estructura del Proyecto
 
-El proyecto consta de tres scripts principales:
+El proyecto consta de siete scripts principales:
 
 1. **Descargar Imágenes** (`download_images.py`): Este script descarga imágenes desde enlaces especificados en un archivo CSV y las guarda en una carpeta local.
 
@@ -70,6 +70,16 @@ El proyecto consta de tres scripts principales:
     - **Mostrar la Respuesta** Después de presionar la barra espaciadora, verás la imagen del caso y los algoritmos para resolverlo en el reverso de la tarjeta (parte trasera).
     - **Evaluar tu Conocimiento** Después de revisar la respuesta, Anki te preguntará si ya conoces el caso o si necesitas seguir practicándolo. Tendrás opciones como "Fácil", "Buena", "Difícil", o "Repetir". Selecciona la opción según tu nivel de confianza en ese caso. Se sincero, si no, no servira.
     - **Configurar el Número de Tarjetas por Día** Una vez termines tu sesión, puedes ajustar el número máximo de tarjetas que deseas repasar por día. Para hacerlo, selecciona tu Deck en la pantalla principal de Anki, haz clic en "Opciones" y ajusta el número de tarjetas nuevas y de repaso en la sección correspondiente.
+    - **Configurar las Tarjetas por Tag**:  
+    Al generar las tarjetas, cada una de ellas lleva un **Tag** que corresponde al **Slot** en el que se está trabajando (por ejemplo, el slot delantero-derecho, trasero-izquierdo, etc.). Esto te permite filtrar las tarjetas y concentrarte en estudiar únicamente las de un slot en específico.
+
+    Para hacer esto:
+     1. Abre Anki y selecciona tu Deck.
+     2. Haz clic en "Estudio personalizado" (**Custom Study**) en la parte inferior.
+     3. Selecciona la opción **"Estudiar en orden aleatorio las tarjetas revisadas"** (**Study in random order reviewed cards**).
+     4. En la ventana que aparece, elige el Tag correspondiente al Slot que deseas estudiar.
+   
+    Con esto, puedes filtrar y estudiar sólo las tarjetas relacionadas con un Slot específico del cubo, permitiendo enfocarte en mejorar áreas concretas de tu conocimiento del método F2L.
 
     De esta forma, podrás mejorar tu conocimiento del método F2L mediante la repetición espaciada, asegurándote de dominar todos los casos a tu propio ritmo.
 
